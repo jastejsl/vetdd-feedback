@@ -1,4 +1,4 @@
-### Symptom name
+### Syndrome name
 Colic
 
 ### Species afected

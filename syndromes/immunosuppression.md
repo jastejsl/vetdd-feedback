@@ -1,5 +1,5 @@
-### Symptom name
-Congestive Heart Failure
+### Syndrome name
+Immunosuppression
 
 ### Species afected
 Initial: Content shown in the app is initial content from launch

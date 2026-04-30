@@ -1,5 +1,5 @@
-### Symptom name
-Hoof Deformities
+### Syndrome name
+Interstitial Keratitis
 
 ### Species afected
 Initial: Content shown in the app is initial content from launch

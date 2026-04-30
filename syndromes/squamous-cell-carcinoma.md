@@ -1,5 +1,5 @@
-### Symptom name
-Immunosuppression
+### Syndrome name
+Squamous cell carcinoma
 
 ### Species afected
 Initial: Content shown in the app is initial content from launch
