@@ -1,0 +1,65 @@
+## Viruses in VetDD
+
+Below is a quick checklist of the Viruses that have been added or are in the pipelines to be added to the database in VetDD. 
+
+- [x]  African Horse Sickness virus (AHS)
+- [x]  Alcelaphine gammaherpesvirus 1 / AlHV-1 (Malignant Catarrhal Fever / Snotsiekte)
+- [x]  African swine fever virus (ASF)
+- [x]  Bluetongue virus
+- [x]  Bovine alphaherpesvirus 1 / BoHV-1 (Infectious Bovine Rhinotracheitis / IPV / IPB)
+- [x]  Bovine alphaherpesvirus 2 / BoHV-2 (Pseudo-Lumpy Skin Disease / Bovine Mammillitis)
+- [x]  Bovine coronavirus
+- [x]  Bovine ephemeral fever virus (Three-Day Stiffsickness)
+- [x]  Bovine leukaemia virus (Enzootic Bovine Leukosis)
+- [ ]  Bovine mastadenovirus (Bovine Respiratory Disease Complex)
+- [x]  Bovine papillomavirus 1 / BPV-1 (Equine Sarcoid)
+- [x]  Bovine papillomavirus 2 / BPV-2 (Fibropapillomas / Squamous Papillomas)
+- [x]  Bovine Respirovirus 3 (Bovine Respiratory Disease Complex / Shipping Fever)
+- [x]  Canid alphaherpesvirus 1 / CHV-1
+- [x]  Canine adenovirus-1 (Infectious Canine Hepatitis)
+- [x]  Canine adenovirus-2 (Kennel Cough)
+- [x]  Canine coronavirus
+- [x]  Canine Distemper Virus
+- [x]  Canine parvovirus type 1
+- [x]  Canine parvovirus type 2
+- [x]  Classical swine fever virus / Hog cholera virus
+- [x]  Crimean-Congo haemorrhagic fever virus (CCHF)
+- [x]  Epizootic haemorrhagic disease virus (EHDV)
+- [x]  Equid alphaherpesvirus 1 / EHV-1 (Equine Abortion / Neurological Disease)
+- [x]  Equid alphaherpesvirus 4 / EHV-4 (Equine Viral Rhinopneumonitis)
+- [x]  Equine adenovirus-1 / EAdV-1
+- [x]  Equine adenovirus-2 / EAdV-2
+- [x]  Equine encephalosis virus
+- [x]  Equine infectious anaemia virus
+- [x]  Equine influenza virus subtype 1 / H7N7
+- [x]  Equine influenza virus subtype 2 / H3N8
+- [x]  Equine viral arteritis virus (Pink Eye / Epizootic Cellulitis)
+- [x]  Felid alphaherpesvirus 1 / FHV-1 (Feline Viral Rhinotracheitis / Snuffles)
+- [x]  Feline calicivirus (Snuffles)
+- [x]  Feline enteric coronavirus (FIP)
+- [x]  Feline immunodeficiency virus (FIV)
+- [x]  Feline leukaemia virus (FeLV)
+- [x]  Feline panleukopenia virus
+- [x]  Foot-and-mouth disease virus (FMDV)
+- [ ]  Goatpox virus
+- [x]  Jaagsiekte retrovirus (Ovine pulmonary adenomatosis)
+- [x]  Lumpy skin disease virus
+- [x]  Mammalian rubulavirus 5 (Kennel Cough)
+- [ ]  Orthopneumovirus bovis (Bovine Respiratory Disease Complex)
+- [ ]  Orf virus (Contagious Pustular Dermatitis)
+- [ ]  Ovine maedi-visna virus
+- [x]  Parapoxvirus (Bovine Papular Stomatitis)
+- [x]  Parapoxvirus (Pseudocowpox / Milkers Nodules)
+- [ ]  Parvoviridae
+- [ ]  Peste-des-Petits-Ruminants virus
+- [x]  Porcine circovirus type 2 / PCV-2 (Post-Weaning Multisystemic Wasting Syndrome / PDNS)
+- [x]  Porcine parvovirus
+- [x]  Porcine reproductive and respiratory syndrome virus (PRRS / Blue Ear Disease)
+- [x]  Rabies virus
+- [x]  Rift Valley fever virus
+- [ ]  Rinderpest Virus
+- [x]  Rotavirus (equine viral diarrhoea in foals)
+- [ ]  Schmallenberg virus
+- [ ]  Sheeppox virus
+- [x]  West Nile virus
+- [x]  Wesselsbron disease virus
