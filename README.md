@@ -6,7 +6,7 @@
 
 VetDD is a veterinary disease repository designed primarily for students in the veterinary field. It provides categorised, section-by-section information on over 100 animal diseases — covering causes, clinical signs, gross pathology, pathophysiology, diagnosis, and more.
 
-Please note: The first iteration of its release (release between April - May 2026) is not a final form. It is simply a delivery of the proof-of-concept and, enables interested members' ability to contribute to the information set in VetDD. 
+Please note: The first iteration of its release is not a final form. It is simply a delivery of the proof-of-concept (am MVP) and, enables interested members' ability to contribute to the information set in VetDD. 
 
 This manner of deployment, interface, and the backend database hosting all the information is simply an aggregation of the various veterinary diseases and symptoms veterinians will come across in their profession. By providing this aggregated layer, the hope is to ease the complexity of navigting the fragmented nature of academia that presides the medical (& veterinary) industry today.
 
@@ -23,9 +23,8 @@ Each disease in VetDD has its own file inside the `diseases` folder above. The f
 
 Each file contains the same set of sections that appear in the app. The initial content is marked as:
 
-```
-Initial: Content shown in the app is from launch
-```
+
+`Initial: Content shown in the app is from launch`
 
 For members wishing to submit feedback;
    1. Please check the feedback backlog that is still pending implementation **before** submitting anything. You can find this by navigating to the "Pull requests" tab above (or click [here](https://github.com/jastejsl/vetdd-feedback/pulls)).
@@ -43,9 +42,9 @@ If you wish to be credited for your contributions outside the scope of VetDD, be
 
 To do this, navigate to your [profile settings](https://github.com/settings/profile) → Scroll down to "ORCID iD" → [Connect your ORCID iD](https://github.com/settings/orcid_connection/new). 
 
-More details on ORCID are avaialble here: https://info.orcid.org/what-is-orcid/. 
+More details on ORCID are avaialble here: https://info.orcid.org/what-is-orcid/ .
 
-_Please note: How ORCID handles & reflects the correlation is outside the scope of our operations._
+_Please note: How ORCID handles & reflects the correlation is outside the scope of VetDD's operations._
 
 
 ---
@@ -87,9 +86,9 @@ Initial: Content shown in the app is initial content from launch
 16 April 2026: Change "salivation" → "hypersalivation with inability to swallow" (Source as a link)
 ```
 
-Note: Citing a publicly accesibly link for the source in this feedback process is highly suggested and preferred. Citing as per academic standards will slow down the verification & implementation process. 
+Note: Citing a publicly accesibly link for the source in this feedback process is highly suggested and preferred.
 
-When physical books/private journals are used as a source, we would appreciate a redirect to the book's/private journal article's listing/summative page and a page number so we can attempt to source the book/journal article and verify the feedback.
+When physical books/private journals are used as a source, it would be appreciated if a link to the book's/journal article's listing page and a page number is  provided.
 
 ### Step 3 — Submit the changes
 
@@ -113,8 +112,6 @@ Once you have made your changes to a disease page, on the page:
 A maintainer will review your feedback, verify sources, and accept or reject the feedback.
 
 To ensure your suggestion is promptly accepted, it is advisable to provide the sources as a publicly accesible link.
-
-In the end-deployment to the app, should a change be accepted, the source for that change will be cited as per an academic standard appropriate to the UI of the app. The source will be added to the "Relevant Acadamic Journal/Article" section of the app.
 
 You will receive a notification in Github about the status of your feedback.
 
@@ -151,8 +148,6 @@ A maintainer will review your feedback, verify sources, and accept or reject cha
 
 To ensure your suggestion is promptly accepted, it is advisable to provide the sources are as a publicly accesible link.
 
-In the end-deployment to the app, should a change be accepted, the source for that change will be cited as per an academic standard appropriate to the UI of the app. The source will be added to the "Relevant Acadamic Journal/Article" section of the app.
-
 You will receive a notification in Github about the status of your suggestion.
 
 
@@ -181,17 +176,14 @@ To all those reading, I sincerely thank you for taking the time to read until th
 
 VetDD is the birthchild of my imagination stemming from the discontent I harboured when studying the content presented to you in the app. The fragmented nature of "modules", and the lack of apparent relationships during the learning process is one that frustrated me. Having envisioned the simplicity of the end result needed to unify these fragments, I set out to build what you see today. 
 
-Each disease we learn of is related to a diagnostic process to diagnose it. Whether it be at post-mortem (resulting in apparent pathological signs) or during the patient's life (resulting in various clinincal signs and lab findings), the simple process of elimination is almost always a "sample in = diagnosis out". Now, combine this with the realisation that multiple findings (whether clinical or pathological) can stem from multiple sources, the task simply becomes more **complicated**. Not _neccesarily_ "layered", just "complicated" - whilst complicated cases where there are primary and secondary causes of the manifestations present _layer_ the task of finding the diagnosis, multiple 'distractors' (all "primary") simply cause for repeated runs of the equation "sample in = diagnosis out". This sort of filtering process is one that, with the aid of modern & evolving technologies, became an interest of mine to explore how to bring it to life. Result: VetDD
+Each disease we learn of is related to a diagnostic process to confirm it. Whether it be at post-mortem (resulting in apparent pathological signs) or during the patient's life (resulting in various clinincal signs and lab findings), the simple process of elimination is almost always a "sample in = diagnosis out". Now, combine this with the fact that multiple findings (whether clinical or pathological) can stem from multiple sources, the task simply becomes more **complicated**. Not _neccesarily_ "layered", just "complicated" - cases where primary and secondary causes of the manifestations present _layer_ the task of finding the diagnosis, multiple 'distractors' (all "primary" per se) simply cause for repeated runs of the formula "sample in = diagnosis out". This sort of filtering process is one that, with the aid of modern technologies, became an interest of mine to explore how to bring it to life. Result: VetDD
 
-for the intial launch, i have utilised my own notes made during studying the various content along with various student summaries for the information fields. it is thus highly encouraged and reccomended that if an there is any misinformation present, please do submit a feedback request as guided above to help improve the accuracy of the information in the app.
+for the intial launch, i have utilised my own study notes made during my process of studying the various content along with various student summaries for the information fields. it is thus highly encouraged and reccomended that if there is any misinformation present, please do submit a feedback request as guided above to help improve the accuracy of the information in the app.
 
-anyways, the app itself is pretty straightforward. i hope it helps all of you that wish to use it and, to those that contribute to it, i sincerely thank you! :)
+the app itself is pretty straightforward; search or use the filter options to narrow down DDs. i hope it helps all of you that wish to use it and, to those that contribute to it, i sincerely thank you! :)
 
-over time, from the day of its launch, i will periodically update and make changes needed based on the feedback submitted and new academic findings. it was simply a "pet project" of mine to help me have a unified layer for the vast field of academia upon which the practice of medicine (including veterinary medicine) stands today (if I am to go into a ramble about 'degree to which academia has infiltrated worksmanship' and my inner thoughts there, we will be here for way too long, simply accepting reality and its benefits allows for peace)
+over time, from the day of its launch, i will periodically update and make changes needed based on the feedback submitted and new academic findings (if brought to my attention, for the time being). this is simply a "pet project" of mine to help me have a unified layer for the vast field of academia upon which the practice of medicine (including veterinary medicine) stands and, whilst building the database, I realised with a quick paint job, I could easily make this a publicly accesible tool.
 
-i hope that by sharing this creation, it helps us all become better vets somday...
+i hope that by sharing this creation, it helps us all become better vets someday...
 
 Jastej :)
-
-
-
