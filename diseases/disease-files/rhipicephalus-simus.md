@@ -1,26 +1,17 @@
-### Disease name
-Rhipicephalus simus
+**Common names:** Glossy brown tick
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dogs (adults); cattle (adults); rodents (immatures)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematopoietic / blood
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Integument
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Adults on cattle: tail switch; adults on dogs: head and shoulders
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** 3-host glossy brown ixodid tick; adults on tail switch of cattle and head/shoulders of dogs; immatures on rodents
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+---
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+This is simply a tick. Images will be added at a later stage to aid identification process in-app
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+Please refer to “Carries” cards linked above for further details of diseases.

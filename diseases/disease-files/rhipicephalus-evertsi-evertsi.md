@@ -1,26 +1,17 @@
-### Disease name
-Rhipicephalus evertsi evertsi
+**Common names:** Red-legged tick
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses; zebra; eland; cattle; sheep
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematopoietic / blood
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Nervous system
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Immatures: deep in ear canal; adults: hairless area around anus and inguinal region of horses and sheep
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** 2-host ixodid tick; red/orange legs; female toxin causes spring lamb paralysis
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+---
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+This is simply a tick. Images will be added at a later stage to aid identification process in-app
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+Please refer to “Carries” cards linked above for further details of diseases.

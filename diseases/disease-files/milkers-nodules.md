@@ -1,26 +1,35 @@
-### Disease name
-Milkers Nodules
+**Specific Causes:** Pseudocowpox virus (Parapoxvirus)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dairy cows (teats and udder); suckling calves (lesions on muzzle/mouth)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Integumentary
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Oral
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Direct contact; milking; biting flies; milking machinery aids transmission between cows
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Ecthymatous lesions on teats and udder
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Vesicles → papules → pustules → scabs
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Lesions on muzzle and mouth of suckling calves
+
+**Pathological signs:**
+
+- Integumentary: ecthymatous skin lesions on teats and udder
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Electron microscopy
+
+- Virus isolation
+
+**Zoonosis:** yes
+
+- Zoonosis: dairy personnel develop "milker's nodules" on hands, arms, and face; no vaccine available; manage with topical ointments and disinfection of milking equipment

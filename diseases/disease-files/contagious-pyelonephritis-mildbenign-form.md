@@ -1,26 +1,59 @@
-### Disease name
-Contagious pyelonephritis (mild/benign form)
+**Caused by:** Corynebacterium pilosum
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle, sheep
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Most benign of the Corynebacterium renale group; causes only mild urinary tract disease
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Urinary
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Tranmission:** Urine aerosol spray onto vulva of susceptible cows; venereal transmission possible; careless use of AI catheters
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Gram Positive** (Non-sporing, irregular rods; commensal in external urogenital tract of cattle and sheep)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Mild urinary tract disease
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Decreased milk production
+
+- Loss of condition
+
+- Frequent painful urination
+
+- Urine may be bloody and cloudy
+
+**Pathological signs:**
+
+- Bladder: Thickened and inflamed (mild)
+
+- Ureters: Thickened with purulent exudate (mild)
+
+**Pathophysiology / Mechanism:**
+
+- Bacteria part of normal flora of vagina/bulls → deposition on vulva → adhere to vulva mucosa → migrate to urinary tract → colonise in increased urea and elevated pH → mild cystitis (rarely progresses)
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Cytology of urine sediment for bacteria
+
+- Blood haematology: left-shift neutrophilia, increased urea, decreased sodium
+
+- Urine culture to identify organism
+
+- Collect midstream urine
+
+**Lab Findings**:
+
+- Left-shift neutrophilia
+
+- Increased urea, decreased sodium
+
+- Urine: proteinuria and haematuria on dipstick
+
+**Fun fact:**
+
+- Most benign/least virulent of the renale group

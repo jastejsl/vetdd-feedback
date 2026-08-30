@@ -1,26 +1,31 @@
-### Disease name
-Bovine coronavirus
+**Specific Causes:** Bovine betacoronavirus (Bovine coronavirus)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle (mainly calves)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Digestive (GIT)
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Respiratory
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Faecal-oral route; aerosol; initial replication in oropharynx with massive doses swallowed
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Acute diarrhoea
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- GIT: villous atrophy in small and large intestine
+
+**Pathophysiology / Mechanism:**
+
+- Virus infects epithelial surface of villi in SI and LI → villous atrophy → diarrhoea
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Electron microscopy of faeces
+
+- Direct immunofluorescence of faeces

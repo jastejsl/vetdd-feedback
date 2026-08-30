@@ -1,26 +1,59 @@
-### Disease name
-Ehrlichia canis
+**Common names:** Canine ehrlichiosis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dogs
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological; Lymphatic
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Renal; Nervous system; Ocular
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Morulae in cytoplasm of monocytes on Giemsa-stained blood smear
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Subclinical: No illness but persistence of bacteria
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Acute: Fever; anorexia; depression; stiffness; oedema of limbs/scrotum; coughing/dyspnoea
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Chronic: Anterior uveitis; meningitis; severe weight loss; epistaxis; haematuria; melena; petechiae/ecchymoses
+
+- Lab findings (see below)
+
+**Pathological signs:0**
+
+- Spleen: Splenomegaly; lymphoreticular hyperplasia
+
+- Kidneys: Glomerulonephritis
+
+- Lungs: Interstitial pneumonia
+
+- Many organs: Widespread haemorrhage; perivascular lymphocytic/plasmacytic infiltration, lymphadenopathy
+
+**Pathophysiology / Mechanism:**
+
+- R. sanguineus feeds on dog → EBs infect monocytes → morulae form (binary fission) → cell lysis → haemic + lymphoreticular involvement → thrombocytopenia → haemorrhage; chronic: pancytopenia + hypergammaglobulinaemia
+
+**Diagnosis:**
+
+- Pathology
+
+- Giemsa-stained blood smear (morulae in monocytes)
+
+- Serology (IFAT + ELISA)
+
+- PCR
+
+**Lab Findings**:
+
+- Thrombocytopenia
+
+- Morulae in monocytes 
+
+- Mild normocytic normochromic anaemia
+
+- Leukopenia
+
+- Pancytopenia (chronic)
+
+- Polyclonal hypergammaglobulinaemia
+
+- Haematuria

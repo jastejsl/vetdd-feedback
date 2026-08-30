@@ -1,26 +1,41 @@
-### Disease name
-Wesselsbron disease virus
+**Specific Causes:** Wesselsbron disease virus
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Ruminants (primarily lambs and kids); humans
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Hepatic
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Reproductive; Nervous
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Tranmission:** Mosquito-borne (arbovirus); similar transmission to Rift Valley fever
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Icterus (jaundice) — more marked than RVF
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Hepatomegaly
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Abortions and teratology in pregnant ruminants
+
+- Newborn lambs/kids: up to 30% mortality
+
+**Pathological signs:**
+
+- Hepatic: hepatomegaly; necrosis; icterus
+
+- Reproductive: abortions; teratological defects in foetuses
+
+**Pathophysiology / Mechanism:**
+
+- Mosquito bite → viraemia → hepatotropic infection → liver necrosis and icterus; in pregnant animals: crosses placenta → abortions and teratology
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+**Zoonosis:** yes
+
+**Prevention:**
+
+- Modified live vaccine available (non-pregnant sheep and goats) providing lifelong immunity

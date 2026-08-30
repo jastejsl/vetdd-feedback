@@ -1,26 +1,33 @@
-### Disease name
-Babesia caballi
+**Common names:** Equine piroplasmosis; Biliary fever
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses; donkeys; mules
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Babesia spp. in equine erythrocytes; larger than T. equi merozoites; no Maltese cross; 
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Anaemia; icterus
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Fever; weakness
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Blood: Haemolytic anaemia; icterus
+
+**Pathophysiology / Mechanism:**
+
+- Tick bite → sporozoite injection → RBC invasion → merogony → haemolysis → anaemia
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Thick blood smear
+
+- Serology
+
+- PCR
+
+**Notifiable:** yes

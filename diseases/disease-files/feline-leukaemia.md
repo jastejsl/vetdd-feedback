@@ -1,26 +1,47 @@
-### Disease name
-Feline leukaemia (FeLV)
+**Specific Causes:** Feline leukaemia virus (FeLV-A, B, C)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Members of family Felidae only
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Lymphoid/Immune; Haematopoietic
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Renal; Ocular
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Tranmission:** Horizontal or vertical transmission; saliva through eyes/nose/respiratory tract; milk; blood transfusion; placenta; urine; faeces; shed in saliva, blood and reproductive secretions; infection often through mucous membrane exposure (copulation)
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+Acute:
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Usually subclinical
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Fever; lymphadenopathy; leukopenia; viraemia
+
+Acute:
+
+- Chronic: lymphoid tumours; ophthalmic tumours; myeloproliferative diseases: anaemia, leukopenia, septicaemia; myelosuppressive diseases: non-regenerative anaemia, panleukopenia-like syndrome; glomerulonephritis; immunosuppression; fibrosarcomas
+
+**Pathological signs:**
+
+- Lymphoid: malignant neoplasia; lymphoma (alimentary, renal, thymic)
+
+- Haematopoietic: non-regenerative anaemia; leukopenia; thrombocytopaenia
+
+**Pathophysiology / Mechanism:**
+
+- Progressive: continuous replication in lymphoid tissue → bone marrow → mucosal/glandular epithelial tissue
+
+- 3 major syndromes: uncontrolled proliferation of virus-transformed cells → lymphosarcomas; degenerative/necrotic myeloid disorders → non-regenerative anaemia; degenerative/necrotic lymphopoietic disorders → immunosuppression
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- ELISA snap test (antigen detection — more sensitive)
+
+- Direct fluorescent antibody test
+
+- Nucleic acid detection (blood, bone marrow, saliva)
+
+- Antibody detection tests

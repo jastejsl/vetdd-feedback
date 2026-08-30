@@ -1,26 +1,29 @@
-### Disease name
-Warthog tampan
+**Latin name:** Ornithodoros porcinus 
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Common names:** Warthog tampan
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Affects:** Warthogs (nymph stages); found in huts/poultry houses
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Integumentary
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Warthog burrows/dens
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Grey-brown; mammillated leathery integument; no eyes; nymph stages on warthogs; soft tick (Argasidae)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Carrier of:** Virus causing African Swine Fever (ASF)
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- See African Swine Fever
+
+**Pathological signs:**
+
+- See African Swine Fever
+
+**Pathophysiology / Mechanism:**
+
+- Nymph stages on warthogs → transmission of African Swine Fever virus
+
+**Diagnosis:**
+
+- Demonstration of ticks

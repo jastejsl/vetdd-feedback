@@ -1,26 +1,23 @@
-### Disease name
-Demodex cati
+**Common names:** Demodectic mange mite of cats
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cats; live in hair follicles and sebaceous glands
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Integumentary
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** 'Tiny little crocodiles'; elongated cigar-shaped
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Papules and pustules
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Alopecia
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Pathophysiology / Mechanism:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Mites in hair follicles/sebaceous glands → follicular inflammation → papules/pustules
+
+**Diagnosis:**
+
+- Deep skin scrapings after area squeezed
+
+[this card seems incomplete but, will await feedback if information is missing]

@@ -1,26 +1,37 @@
-### Disease name
-Bovine respiratory syncytial virus
+**Specific Causes:** Orthopneumovirus bovis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle (mainly calves 3–12 months); sheep; goats
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Respiratory
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Aerosol; shed in nasal and ocular secretions; contact with mucous membranes
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Mostly subclinical and inapparent
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Fever
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Coughing
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Nasal, oral and ocular discharge
+
+- Respiratory distress
+
+- Fusion of lung cells
+
+**Pathological signs:**
+
+- Respiratory: loss of cilia and necrosis; depressed mucociliary clearance; fluid and tissue debris accumulation in airways and alveoli; predisposes to secondary bacterial infections
+
+**Pathophysiology / Mechanism:**
+
+- Virus replicates in epithelial cells of nasal cavity, pharynx, trachea, bronchi, bronchioles, type II pneumocytes and alveolar macrophages → loss of cilia and necrosis → impaired mucociliary clearance → accumulation of fluid and debris → secondary bacterial infection
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Antigen ELISA; fluorescent antibody (FA); immunoperoxidase

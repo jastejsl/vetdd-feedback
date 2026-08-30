@@ -1,26 +1,49 @@
-### Disease name
-Equine encephalosis
+**Specific Causes:** Equine encephalosis virus
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses and other equids
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Vascular
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** CNS (occasionally); Reproductive
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Arthropod-borne (Culicoides midges); late summer and autumn
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- 90% show no or mild signs
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Fever
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Inappetence
+
+- Increased pulse and respiratory rate
+
+- Red-brown discolouration of mucous membranes
+
+- Less common: CNS involvement (ataxia; temperament changes; respiratory distress)
+
+- Abortion
+
+- Low mortality rate
+
+**Pathological signs:**
+
+- Respiratory: lung oedema
+
+- Cardiovascular: hydropericardium; hepato- and splenomegaly
+
+- Serosal: petechiae on serosal surfaces
+
+**Pathophysiology / Mechanism:**
+
+- Vascular damage → effusions; oedema; haemorrhages
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Virus isolation from blood, organs or aborted foetuses
+
+- RT-PCR

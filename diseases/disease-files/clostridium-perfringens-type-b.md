@@ -1,26 +1,53 @@
-### Disease name
-Clostridium perfringens Type B
+**Common names:** Lamb dysentery; bloedpens
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Lambs and kids (<14 days old)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Peracute to chronic enterotoxaemia; results in death after several hours to 2–4 days.
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Gastrointestinal tract (small intestine, especially ileum)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Obligate pathogen; soiled teats as source of infection to suckling lambs/kids; confinement in contaminated areas increases prevalence; more prevalent in cold weather conditions
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Morbidity low, mortality 100%
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- [Awaiting feedback]
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+Peracute:
+
+- [Awaiting feedback]
+
+Acute:
+
+- Abdominal pain, diarrhoea
+
+Subacute:
+
+- Listless, depressed, arched back (abdominal pain), diarrhoea (offensive odour), lateral recumbency, coma and death
+
+Chronic:
+
+- Unthriftiness, insufficient milk intake
+
+**Pathological signs:**
+
+- GIT: expanding necrosis and ulcer formation in small intestine (especially ileum) which become confluent
+
+**Pathophysiology / Mechanism:**
+
+- Ingestion of C. perfringens after birth → colonisation of SI (especially ileum) and toxin production (beta toxin — necrotising; inactivated by trypsin found in colostrum, but only sufficient in animals >2 weeks) → expanding necrosis and ulcer formation which become confluent → increased motility of intestine disturbs absorptive mechanisms → diarrhoea → death due to dehydration, shock, toxaemia, acidosis
+
+**Diagnosis:**
+
+- History and clinical signs in combination with intestinal smears from affected portions of small intestine
+
+- Isolation of causative organism and toxin typing from SI, LI and gut content
+
+- Important to differentiate from colibacillosis and salmonellosis
+
+- Samples collected no longer than 6 hours after death
+
+**Notes:**
+
+- Most effective control: vaccinate pregnant ewes 2–4 weeks before parturition (to be confirmed, awaiting feedback)

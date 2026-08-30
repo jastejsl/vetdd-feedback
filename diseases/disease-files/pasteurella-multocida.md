@@ -1,26 +1,72 @@
-### Disease name
-Pasteurella multocida
+**Common names:** 
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+- Haemorrhagic septicaemia (HS)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+- Pneumonic pasteurellosis
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+- Shipping fever
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle, sheep, goats, pigs
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Respiratory; Cardiovascular
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Lymphatic
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Aerosol or ingestion from carrier animals; stress triggers shedding. Carrier animals common source
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Gram Negative** (Rods; family Pasteurellaceae)
+
+**Clinical Signs:**
+
+- High fever
+
+- Pneumonia
+
+- Dyspnoea
+
+- Salivation
+
+- Nasal discharge
+
+- High mortality
+
+- Peracute to acute septicaemia
+  - Haemorrhagic septicaemia
+
+Acute:
+
+- Pneumonic pasteurellosis: Pneumonia (cranioventral lobes), high temperature, nasal discharge, high mortality, rapid breathing, cyanosis
+
+- Subacute: Less severe pneumonia (complicated by heart sac inflammation and pleurisy); coughing; nasal discharge; emaciation
+
+**Pathological signs:**
+
+- Serosal surfaces: Widespread petechiae, ascites, hydrothorax, hydropericardium
+
+- Lymph nodes: Petechiae, oedema
+
+- Severe generalised congestion
+
+- Lungs (pneumonic form): Fibrinous to fibrinopurulent bronchopneumonia; limited lung necrosis; small amounts of fibrin exudation; some thrombosis; bronchitis and bronchiolitis
+
+**Pathophysiology:**
+
+- Active carrier: limited but ongoing multiplication in tonsils and nasopharynx → stress triggers shedding (4–6 weeks) → aerosol transmission → haemorrhagic septicaemia (endotoxin-mediated widespread petechial haemorrhages and organ damage); OR opportunistic colonization of lungs with chronically damaged respiratory defences → purulent/fibrinopurulent pneumonia
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Microscopic examination of blood/organ/bone marrow smears (shortly before death)
+
+- Isolation of P. multocida
+
+- Serotype-specific ELISA
+
+- DNA typing
+
+- PCR
+
+**Note:**  It is a normal commensal of the upper respiratory tract.

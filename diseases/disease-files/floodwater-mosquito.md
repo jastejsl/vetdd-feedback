@@ -1,26 +1,23 @@
-### Disease name
-Floodwater mosquito
+**Caused by:** Aedes spp
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Animals (sheep, cattle, horses, dogs); humans
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematopoietic / vascular
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Nervous system
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Exposed skin
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Short female palps; long male palps; body parallel to surface; single eggs; larvae with siphon tube at 45° to surface; long narrow respiratory trumpets on pupae; eggs require dry period to hatch
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Biting stress and irritation
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Toxins from bites can kill few day-old lambs
+
+---
+
+This is simply a mosquito. Images will be added at a later stage to aid identification process in-app
+
+Please refer to “Carries” cards linked above for further details of diseases.

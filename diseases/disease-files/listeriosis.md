@@ -1,26 +1,49 @@
-### Disease name
-Listeriosis
+**Caused by:** Listeria monocytogenes
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Sheep, goats, cattle, humans (food-borne zoonosis)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Three syndromes (rarely occur together): meningoencephalitis, abortion/stillbirths, septicaemia; outbreaks in ruminants associated with poor quality silage.
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Nervous system
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Reproductive; Alimentary
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Faecal-oral route; aerosol; close contact; arthropods; widely distributed in environment (soil, vegetation, pasture, silage, sewage, water); bacteria shed in faeces and all body fluids
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Gram Positive** (Obligate intracellular bacteria; grows from 4–44°C; tolerates freezing; best growth at neutral to slightly alkaline pH)
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Meningoencephalitis: Depression progressing to somnolence; incoordination, circling, head tilts; unilateral facial nerve paralysis (drooping lips, ears, eyelids, drooling, dysphagia)
+
+- Abortion/stillbirths: Aborted foetuses and septicaemic neonates with small yellow pinpoint necrotic foci in liver; erosions in abomasum
+
+- Keratoconjunctivitis and iritis
+
+**Pathological signs:**
+
+- Brainstem: Micro-abscesses in brainstem (meningoencephalitis); unilateral lesions restricted to pons and medulla oblongata
+
+- Fetal liver: Small, yellow pinpoint necrotic foci
+
+- Abomasum: Erosions (aborted foetuses)
+
+**Pathophysiology / Mechanism:**
+
+- Meningoencephalitis: Entry through wounds in oral mucosa → travels via trigeminal nerve → reaches brainstem → unilateral lesions in pons and medulla oblongata
+
+- Abortion/septicaemia: Ingestion → entry through intestinal mucosa → localize in uterus → septicaemia in neonates
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Histopathology: micro-abscesses in brainstem
+
+- Culture from brainstem (meningoencephalitis) or all organs, placenta, faeces, urine, blood, milk (septicaemia and abortion)
+
+- 'Cold enrichment' to promote isolation (4°C up to 2 months)
+
+**Zoonosis:** yes

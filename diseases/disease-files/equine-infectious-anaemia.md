@@ -1,26 +1,47 @@
-### Disease name
-Equine infectious anaemia
+**Specific Causes:** Equine infectious anaemia virus (EIAV; genus Lentivirus)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses and other equids
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Recovered animals remain carriers for life; Southern Africa is currently free from the virus
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematopoietic/Immune; Vascular
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Via infected blood: iatrogenic or blood-sucking insects; virus survives in bloodstream macrophages
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Intermittent fever
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Anaemia
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Progressive weakness
+
+- Weight loss
+
+- Icterus
+
+- Ventral oedema
+
+- Petechial haemorrhages
+
+**Pathological signs:**
+
+- Haematopoietic: anaemia; thrombocytopaenia
+
+- Vascular: petechial haemorrhages; ventral oedema
+
+**Pathophysiology / Mechanism:**
+
+- Virus survives mainly in macrophages → transmitted via blood-sucking insects or iatrogenic routes → persistent infection → recurrent viraemia and immunopathological damage
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Coggins test (agar gel immunodiffusion for antibodies)
+
+**Lab Findings**:
+
+- Anaemia; thrombocytopaenia on haematology

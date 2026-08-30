@@ -1,26 +1,39 @@
-### Disease name
-Trueperella pyogenes (UBV)
+**Common names:** Ulcerative balanoposthitis and vulvovaginitis (UBV) — end-stage/co-factor
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Sheep (Dorper and Karakul breeds)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+End-stage organism in multifactorial aetiology of UBV; aetiology not conclusively resolved; occurs alongside Mycoplasma mycoides subsp. mycoides
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Reproductive
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Venereal
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Gram Positive** (Facultative anaerobic; non-sporing irregular rods)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Vulvitis: Ulcerated, swollen, red vulvae (only lips)
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Balanitis: Ulcerated and hyperaemic glans penis
+
+- Glans penis and vulva appear hyperaemic and swollen with ulceration
+
+**Pathological signs:**
+
+- External genitalia: Erosion and ulceration of vulval labia and glans penis
+
+- Pyogenic suppurative lesions (grey/yellow/green malodorous pus) as end-stage organism
+
+**Pathophysiology / Mechanism:**
+
+- Initial infection (Mycoplasma mycoides) → ulceration and erosion of external genitalia → T. pyogenes acts as end-stage/co-factor organism → secondary pyogenic infection of pre-existing ulcerated lesions → worsens lesion severity and prolongs infection; T. pyogenes lowers O2 tension in tissues, enabling synergism with anaerobes
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Culture and identification of Trueperella pyogenes from lesions
+
+**Importance:** Leads to reproductive losses through reluctance of males to mate due to penile ulceration

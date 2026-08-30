@@ -1,26 +1,61 @@
-### Disease name
-Classical swine fever
+**Specific Causes:** Classical swine fever virus (genus Pestivirus; single-stranded RNA)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**A.K.A:** Hog cholera virus
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Affects:** Pigs only
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+Eradicated from South Africa (last outbreaks: 1918 and 2007); notifiable and controlled disease
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Vascular; Lymphoid; Digestive
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Nervous; Integumentary; Renal
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Tranmission:** Pig-to-pig only; oral and intranasal routes; transplacental; shed in all secretions
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Fever
+
+- Dullness and depression
+
+- Conjunctivitis
+
+- Constipation followed by diarrhoea
+
+- Staggering gait; posterior paresis
+
+- Purplish discolouration of skin
+
+- Skin infarcts
+
+Acute:
+
+- Pyrexia; anorexia
+
+- Haemorrhages on skin; cyanosis of extremities
+
+**Pathological signs:**
+
+- Vascular/Lymphoid: haemorrhages in lymph nodes and kidneys; haemorrhagic infarcts in spleen
+
+- GIT: button ulcers in large intestine
+
+- CNS: meningoencephalitis
+
+**Pathophysiology / Mechanism:**
+
+- Primary replication in tonsils → spreads via lymphatics → viraemia; affinity for vascular endothelium and immune cells → widespread haemorrhages and immune suppression
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Virus isolation
+
+- PCR
+
+- Serology
+
+**Notifiable / Controlled Disease:** yes

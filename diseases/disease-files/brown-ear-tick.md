@@ -1,26 +1,59 @@
-### Disease name
-Brown ear tick
+**Latin name:** Rhipicephalus appendiculatus
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle; goats; buffalo; kudu; eland (adults); smaller antelope (immatures)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+3-host tick (usually 1 year life cycle):
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+- Adults on cattle, goats, buffalo, kudu, eland
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+- Immatures on smaller antelope
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- [missing information?]
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematopoietic / lymphatic
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Integument
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Adults: ear, eyelids, horns, neck, tailbrush, anus; immatures: neck, dewlap, cheeks, eyelids, muzzle, ears
+
+**Carrier of:** *Theileria parva* (ECF / Corridor Disease); *Theileria taurotragi*
+
+**Clinical Signs:**
+
+- Clinical signs primarily from transmitted *Theileria parva* (ECF)
+
+- High fever
+
+- Lymphadenopathy
+
+- Respiratory distress (pulmonary oedema)
+
+- Nervous signs
+
+- High mortality in susceptible cattle
+
+**Pathological signs:**
+
+- Lymphatic: lymphadenopathy, lymphocyte proliferation
+
+- Respiratory: pulmonary oedema
+
+- Integument: attachment wounds at predilection sites
+
+**Pathophysiology / Mechanism:**
+
+- Tick feeds → inoculates *Theileria parva* sporozoites → infects lymphocytes → lymphoproliferation and schizogony → lymphocyte destruction, immunosuppression, pulmonary oedema and death
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Identification of brown ear tick on cattle
+
+**Lab Findings**:
+
+- Lymph node smear: schizonts (Koch's blue bodies) in lymphocytes
+
+- Blood smear: piroplasms in late stage

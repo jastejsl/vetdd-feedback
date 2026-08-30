@@ -1,26 +1,49 @@
-### Disease name
-Swine dysentery
+**Caused by:** Brachyspira hyodysenteriae
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Pigs (mainly 6–12 weeks)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+World-wide peracute to chronic infectious enteric disease; characterized by diarrhoea (typhlocolitis), mucus, blood and necrotic material in faeces; causes severe economic losses. Uncommon in SA
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Alimentary (large intestine/colon)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Tranmission:** Faecal-oral; introduced by infected stock, mechanical via workers, vectors (dogs, rodents, birds); maintained by carrier pigs and faecally contaminated feed/water
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Gram Negative** (aerotolerant anaerobic, motile spirochaete; sensitive to drying, acidity and most disinfectants; survives in moist/cool environments; survives in soil 10 days, soil with faeces 78 days, pure pig faeces 112 days)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+Peracute:
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Death
+
+Acute:
+
+- Diarrhoea: Yellow-grey and foetid (cow pad), may contain mucus and blood; later fibrin and necrotic material
+
+- Dehydration
+
+- Subacute: Weight loss with occasional diarrhoea
+
+- Chronic: Rice water diarrhoea and emaciation
+
+**Pathological signs:**
+
+- Colon: Typhlocolitis; lesions only in colon; spirochaetes found in lumen and crypts of colonic mucosa
+
+- General: Emaciation and dehydration
+
+**Pathophysiology / Mechanism:**
+
+- Ingestion → proliferation in large intestine (colon) → inflammation of mucosa and multifocal bleeding points → hypersecretion of mucus → necrosis and desquamation → decreased absorption → mucohaemorrhagic diarrhoea → dehydration, electrolyte loss and weight loss
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Faeces: mucoid with necrotic material and fresh blood
+
+- Lesions only in colon
+
+- Spirochaetes in lumen and crypts of colonic mucosa

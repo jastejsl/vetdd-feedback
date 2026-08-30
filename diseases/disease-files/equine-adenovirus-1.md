@@ -1,26 +1,29 @@
-### Disease name
-Equine adenovirus-1
+**Specific Causes:** Equine mastadenovirus A (EAdV-1)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses; especially Arab foals with severe combined immunodeficiency disease (SCID)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Subclinical in normal foals; most severe disease in Arabian foals with SCID
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Respiratory (upper)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Typically subclinical in normal foals
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- In SCID foals: severe bronchopneumonia; fever; ulcerated oral mucosa; ocular and nasal discharge
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Respiratory: bronchopneumonia (in SCID foals)
+
+**Pathophysiology / Mechanism:**
+
+- Most common opportunistic infection in Arabian foals with SCID → severe pneumonia and respiratory failure in immunocompromised animals
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Virus isolation; antibody tests

@@ -1,26 +1,17 @@
-### Disease name
-Rhipicephalus microplus
+**Common names:** Asiatic blue tick
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematopoietic / blood
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Integument
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** 1-host ixodid tick; similar appearance to *R. decoloratus* but shorter life cycle; cattle are primary host
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+[Will await feedback if specific predilection sites are known of]
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+---
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+This is simply a tick. Images will be added at a later stage to aid identification process in-app
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+Please refer to “Carries” cards linked above for further details of diseases.

@@ -1,26 +1,35 @@
-### Disease name
-Bovine papillomavirus 2 (BPV-2)
+**Specific Causes:** Bovine papillomavirus 
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**A.K.A:** Fibropapillomas / Squamous Papillomas
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle; horses (BPV-1 and BPV-2)
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Integumentary
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Skin abrasions; contaminated equipment; teat papillomas transmitted via milk
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Fibropapillomas: benign, firm, white, broad-based
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Squamous papillomas: crusty, dry, pedunculated; on face and neck
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Potential for malignant transformation in less/unpigmented areas
+
+**Pathological signs:**
+
+- Integumentary: fibropapillomas (benign, firm, broad-based) or squamous papillomas (crusty, dry, pedunculated)
+
+- Malignant transformation: squamous cell carcinomas in unpigmented or less-pigmented areas
+
+**Pathophysiology / Mechanism:**
+
+- BPV infects keratinocytes via skin abrasions → cellular proliferation → fibropapilloma or squamous papilloma formation; malignant transformation can occur via virus + cellular co-factors (e.g. UV light in unpigmented areas)
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Histopathology

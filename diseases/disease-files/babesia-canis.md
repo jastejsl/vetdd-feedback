@@ -1,26 +1,31 @@
-### Disease name
-Babesia canis
+**Common names:** Canine babesiosis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dogs
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Large Babesia in dog erythrocytes; morphologically identical to B. vogeli and B. rossi; differentiated by vector and PCR.
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** [awaiting feedback for tick in South Africa, Europe tick known]
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Fever; anaemia; jaundice
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Inappetence; marked thirst; weakness; prostration
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
+
+- Blood: Haemolytic anaemia (intra- and extravascular)
+
+**Pathophysiology / Mechanism:**
+
+- Tick inoculates sporozoites → RBC invasion → merogony → haemolysis → anaemia + icterus
+
+**Diagnosis:**
+
+- Blood smears
+
+- Serology
+
+- PCR

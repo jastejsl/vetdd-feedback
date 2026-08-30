@@ -1,26 +1,59 @@
-### Disease name
-Malignant Catarrhal Fever
+**Specific Causes:** Alcelaphine gammaherpesvirus 1 (AlHV-1; Macavirus alcelaphinegamma 1)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle; blue and black wildebeest (carriers); ovine (sheep-associated MCF)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Vascular; Lymphoid; Digestive
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Ocular; Renal; CNS; Respiratory
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Via infected wildebeest calves (non-cell-associated virus in nasal/ocular secretions); infection between cattle impossible; also via sheep (uncommon in SA)
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Fever; anorexia
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Inflammation of mucous membranes of mouth, nose and eyes
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Ocular and nasal discharge (first serous then mucopurulent) — mucopurulence is characteristic
+
+- Muzzle dry, necrotic and cracked
+
+- Accumulation of exudate in nasal passages: dyspnoea and drooling
+
+- Hyperaemia and multifocal erosions of oral mucosa
+
+- Conjunctivitis
+
+- Bilateral corneal opacity (keratitis) — characteristic sign
+
+- CNS involvement
+
+- High mortality rate
+
+**Pathological signs:**
+
+- GIT: erosions and ulcers in oesophagus, fore-stomachs, abomasum, SI and LI
+
+- Hepatic: enlarged liver with oedematous gall bladder wall
+
+- Lymphoid: swollen lymph nodes
+
+- Renal: multifocal lymphoid infiltration in renal cortex; urinary bladder erosions and haemorrhages
+
+- Vascular: severe necrotizing vasculitis and perivascular lymphoid infiltrations
+
+**Pathophysiology / Mechanism:**
+
+- Virus infects T-lymphocytes → cytolytic/NK cell activity → deregulation of immune-modulatory functions → T-lymphocyte hyperplasia (suppression of T helper cell function) → cellular necrosis from cytotoxic NK cells → generalised vasculitis and perivascular lymphoid infiltration
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Virus isolation
+
+- PCR + histopathology (advised for legal reasons)
+
+**Notifiable / Controlled Disease:** yes

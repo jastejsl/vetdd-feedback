@@ -1,26 +1,49 @@
-### Disease name
-Bovine mastadenovirus
+**Specific Causes:** Bovine mastadenovirus 
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle (calves primarily)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Respiratory
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Digestive; Ocular
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Direct contact; aerosol; shed in lachrymal, nasal secretions and faeces
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Lachrymal and nasal discharge
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Conjunctivitis and keratoconjunctivitis
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Upper and lower respiratory tract infection
+
+- Catarrhal enteritis
+
+- Polyarthritis
+
+- Weak calf syndrome
+
+- Colic; diarrhoea
+
+**Pathological signs:**
+
+- Respiratory: bronchiolitis and necrosis; alveolar collapse
+
+- GIT: enteritis
+
+- Ocular: conjunctivitis
+
+**Pathophysiology / Mechanism:**
+
+- Subgroup 1: replicates in epithelial cells of mucous membranes (conjunctiva, intestine) → local disease
+
+- Subgroup 2: induces viraemia → spreads to other organs → lung tissue infection → necrosis and alveolar collapse
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Virus isolation
+
+- Antibody tests

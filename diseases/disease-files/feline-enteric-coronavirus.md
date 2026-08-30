@@ -1,26 +1,31 @@
-### Disease name
-Feline enteric coronavirus
+**Specific Causes:** Feline alphacoronavirus type 2
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Domestic cats and wild felids
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Most cats infected at some stage; no vaccine; can mutate into FIP virus
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Digestive (GIT)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Faecal-oral route; breathing in virus from dried faeces (‘virus cloud’); most infected cats become transiently infected and shed for up to 3 months
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Mostly subclinical
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Transient and mild diarrhoea centred in the lower intestine and colon
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
+
+- GIT: mild villous epithelial damage
+
+**Pathophysiology / Mechanism:**
+
+- FECV infects villous enterocytes → mild diarrhoea; can mutate (gene C3) → tropism switches from enterocyte to monocyte → becomes FIP virus
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- PCR (cannot distinguish FECV from FIP-inducing mutant)

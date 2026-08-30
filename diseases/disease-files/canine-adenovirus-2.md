@@ -1,26 +1,31 @@
-### Disease name
-Canine adenovirus-2
+**Specific Causes:** Canine mastadenovirus B (CAV-2)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dogs
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Respiratory
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Aerosol droplets; direct contact; stress and high densities predispose
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Minor, inapparent respiratory signs
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Various clinical syndromes associated with infection
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Contributes to kennel cough syndrome
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
+
+- Respiratory: virus replication peaks at 3–6 days post infection; airway epithelium damage
+
+**Pathophysiology / Mechanism:**
+
+- Virus replicates in upper respiratory epithelium → mucosal damage → paves way for secondary bacterial infections (e.g. Bordetella bronchiseptica)
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Virus isolation; serology

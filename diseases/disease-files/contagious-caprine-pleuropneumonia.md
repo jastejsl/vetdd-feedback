@@ -1,26 +1,61 @@
-### Disease name
-Contagious Caprine Pleuropneumonia
+**Caused by:** Mycoplasma capricolum subsp. capripneumoniae
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Goats
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Respiratory
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Aerosol or inhalation
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Incubation period 6–10 days
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Morbidity often 100% (disease severe in naïve animals; chronic disease in endemic areas)
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Mortality 60–100% (increased with close contact)
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Secondary bacterial infections
+
+- Respiratory symptoms
+
+Peracujte:
+
+- Minimal clinical signs
+
+Acute:
+
+- High fever
+
+- Anorexia
+
+- Productive cough
+
+- Wide stance, extended neck (breathing difficulties)
+
+Chronic:
+
+- Cough
+
+- Nasal discharge
+
+**Pathological signs:**
+
+- Lungs: unilateral/bilateral, granular to marbled appearance
+
+- Pleural cavity: straw-coloured fluid
+
+- Fibrinous pleuropneumonia
+
+- Chronic changes: pleuritis, adhesions to wall
+
+- Septicaemic form: mostly only one lung affected, with multiple organs affected (e.g. meningitis)
+
+**Pathophysiology / Mechanism:**
+
+- Lipoglycan (cell membrane component) induces severe inflammatory response in lungs
+
+**Diagnosis:**
+
+- [Awaiting feedback]
+
+**Notifiable / Controlled Disease:** Controlled disease (not in South Africa)

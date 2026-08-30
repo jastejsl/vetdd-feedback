@@ -1,26 +1,31 @@
-### Disease name
-Pseudo-Lumpy Skin Disease
+**Specific Causes:** Bovine alphaherpesvirus 2 / BoHV-2 
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**A.K.A:** Bovine Mammillitis
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+Worldwide; 2 clinical entities: nodular skin disease (Southern Africa) and ulcerative dermatitis of teats/udder (widespread); lesions more superficial than LSD — does not affect internal organs
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Integumentary (Skin); Mammary
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Nodular skin disease (Southern Africa): lesions similar to lumpy skin disease but more superficial
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Ulcerative dermatitis of teats and udders of cows
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Lesions generally not deep; proliferative warts (papillomas) unattached to underlying tissue
+
+**Pathological signs:**
+
+- Skin: intranuclear inclusion bodies in keratinocytes (differentiates from LSD which has intracytoplasmic inclusion bodies)
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Intranuclear inclusion bodies (vs. intracytoplasmic in true LSD)
+
+- Virus isolation; EM; PCR

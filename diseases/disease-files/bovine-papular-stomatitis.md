@@ -1,26 +1,35 @@
-### Disease name
-Bovine Papular Stomatitis
+**Specific Causes:** Bovine papular stomatitis virus
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Worldwide distribution; short-lived immunity leads to recurrent infection
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Oral; Integumentary
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Direct contact
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Erythema followed by proliferative and erosive lesions
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Lesions on muzzle, lips, inside nostrils, and mouth
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
+
+- Oral/Integumentary: proliferative and erosive lesions on muzzle, lips, nostrils, and oral mucosa
+
+**Pathophysiology / Mechanism:**
+
+- (Couldn’t find rn, will have to scan other summaries soon)
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Electron microscopy
+
+**Zoonosis:** yes
+
+- Zoonosis: human lesions indistinguishable from milker's nodules; short-lived immunity allows recurrent infection

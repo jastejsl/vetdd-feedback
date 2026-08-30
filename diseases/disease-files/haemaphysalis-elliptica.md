@@ -1,26 +1,11 @@
-### Disease name
-Haemaphysalis elliptica
+**Common names:** Yellow dog tick
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dogs; cats; large carnivores (adults); rodents (immatures)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** 3-host ixodid tick; yellow-brown coloration; adults on carnivores
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+---
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+This is simply a tick. Images will be added at a later stage to aid identification process in-app
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
-
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
-
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
-
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+Please refer to “Carries” cards linked above for further details of diseases.

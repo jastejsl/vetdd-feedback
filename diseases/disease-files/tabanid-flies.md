@@ -1,26 +1,25 @@
-### Disease name
-Tabanid flies
+**Common names:** Horse fly
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle; horses; other livestock; humans
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Causes:** Large wounds on skin made by cutting mouthparts - attracts more flies.
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Large stout flies; iridescent eyes; annulated third antennal segment; proboscis adapted for blood sucking.
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Mechanical vectors**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Large painful wounds from bites that seep blood
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Secondary fly attraction to seeping wounds
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Biting stress and blood loss
+
+- Clinical signs from diseases
+
+---
+
+This is simply a fly. Images will be added at a later stage to aid identification process in-app
+
+Please refer to “Carries” cards linked above for further details of diseases.

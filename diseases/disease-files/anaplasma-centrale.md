@@ -1,26 +1,31 @@
-### Disease name
-Anaplasma centrale
+**Common names:** Bovine anaplasmosis (benign); Gall sickness
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Benign infections; often used for vaccination against A. marginale. Vector in SA: Rhipicephalus simus.
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** could not find information
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Erythrocytes (situated toward the CENTRE of the erythrocyte)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Ticks; Insects; Iatrogenic
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Round; situated toward CENTRE of erythrocyte (cf. A. marginale at margin); used as live vaccine.
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
+
+- Benign; usually clinically inapparent
+
+**Pathological signs:**
+
+- Blood: Minimal
+
+**Pathophysiology / Mechanism:**
+
+- Tick bite (R. simus) → RBC invasion → benign replication; used for immunisation against A. marginale
+
+**Diagnosis:**
+
+- Giemsa-stained blood smear (inclusions at RBC centre); PCR

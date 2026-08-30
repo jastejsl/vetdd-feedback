@@ -1,26 +1,23 @@
-### Disease name
-Anaplasma bovis
+**Common names:** Bovine monocytic anaplasmosis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle; sheep (unsure)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Does not cause clinical disease; infects monocytes (leukocytes), not erythrocytes.
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological; Lymphatic
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Monocytes (leukocytes) — inclusions visible as morulae
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Inclusions in ovine monocytes on Giemsa-stained smear; infects leukocytes NOT erythrocytes.
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Does not cause clinical disease 
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
+
+- Not relevant - worth knowing as a differentiator
+
+**Diagnosis:**
+
+- PCR; Giemsa blood smear (morulae in monocytes)

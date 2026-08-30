@@ -1,26 +1,23 @@
-### Disease name
-Rhipicephalus sanguineus
+**Common names:** Kennel tick; brown dog tick
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dogs
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematopoietic / blood
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Integument
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** 
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Larvae: stomach and sides
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Nymphs: ears, shoulders and between toes
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Adults: ears, neck, shoulders and between toes
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** 3-host ixodid tick found predominantly on dogs; stages vary in predilection site; kennel environments favour survival
+
+---
+
+This is simply a tick. Images will be added at a later stage to aid in identification process in-app
+
+Please refer to “Carries” cards linked above for further details of diseases.

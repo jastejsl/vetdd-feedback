@@ -1,26 +1,61 @@
-### Disease name
-Three-Day Stiff sickness
+**Specific Causes:** Ephemerovirus febris
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Endemic in Africa, southern Asia, and Australasia; seasonal (late summer/early autumn); high morbidity, low mortality; vector-borne
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Musculoskeletal; Vascular
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Respiratory; Digestive; Metabolic (hypocalcaemia)
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Mosquitoes (Culex and Anopheles spp. most important; NOT midges); arbovirus; seasonal outbreaks
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Fever; depression; anorexia
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Sudden drop in milk production
+
+- Tachycardia
+
+- Joint swelling
+
+- Pulmonary oedema
+
+- Muscular tremors
+
+- Rumen atony; bloat; constipation
+
+- Incoordination; temporary limb paralysis
+
+- Pulmonary and subcutaneous emphysema
+
+Acute:
+
+- Sudden onset with rapid progression
+
+- Hypocalcaemia (secondary mechanism)
+
+- Most cattle recover within 3 days (hence "three-day stiffsickness")
+
+**Pathological signs:**
+
+- Musculoskeletal: serofibrinous polysynovitis; tenovaginitis; focal haemorrhages and necrosis of skeletal muscles
+
+- Respiratory: patchy pulmonary oedema
+
+**Pathophysiology / Mechanism:**
+
+- Virus targets endothelium of small blood vessels → effusion of fibrin-rich fluid into joints, peritoneal, pleural, and pericardial cavities; secondary hypocalcaemia via: rumen atony → decreased Ca absorption + respiratory alkalosis → increased protein binding of Ca + neutrophil activation → increased Ca internalisation
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Presumptive: neutrophilia \>30% band forms; poor clot formation
+
+- Viral isolation from blood (heparin tube)
+
+- Serology

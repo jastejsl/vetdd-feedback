@@ -1,26 +1,29 @@
-### Disease name
-Rotavirus
+**Specific Causes:** Rotavirus (genus)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Foals (under 2 months most commonly affected)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Digestive (GIT)
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Faecal-oral; highly contagious; sick foals shed large amounts of virus; fomites
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Depression
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Anorexia
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Profuse malodorous and watery diarrhoea
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
+
+- GIT: destruction of enterocytes at tips of villi of SI → malabsorption
+
+**Pathophysiology / Mechanism:**
+
+- Virus destroys enterocytes at tips of villi of SI → lactase deficiency → lactose passes into lumen → osmotic diarrhoea and malabsorption
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology

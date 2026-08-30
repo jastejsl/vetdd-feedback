@@ -1,26 +1,45 @@
-### Disease name
-Calf Diphtheria
+**Common names:** Necrotic stomatitis; Ulcerative stomatitis and laryngitis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Caused by:** Fusobacterium necrophorum
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Affects:** Calves (mainly young calves)
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Gastrointestinal
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Respiratory
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** F. necrophorum is common in feedlot manure and soil, and in the mouth, forestomachs and intestines of healthy ruminants; predisposing factors include poor nutrition and hygiene, close confinement with dirty/damp housing, trauma (thorns, grass awns), malnourishment, abrasions to pharyngeal mucosa (coarse feed)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Loss of appetite, listlessness, salivation, frequent sucking or swallowing movements
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Swelling of cheek or throat regions
+
+- Fever
+
+- Foul breath
+
+- Mainly oral cavity and tongue lesions: salivation, tongue protrusion, difficulty eating and swallowing
+
+- Mainly upper respiratory tract: nasal purulent discharge, dyspnoea, coughing, inspiratory stridor
+
+- Chronically infected animals are "poor doers"
+
+- Complications include bronchopneumonia or toxaemia with death
+
+- Spontaneous recovery in mild cases; recovery after treatment (most)
+
+**Pathological signs:**
+
+- Oral cavity/pharynx: irregular, sharply circumscribed, whitish-grey areas of coagulative necrosis, possibly surrounded by a zone of hyperaemia; necrotic material raised slightly and firmly adherent to underlying tissue, but as disease progresses it may slough, leaving ulcers that heal by granulation
+
+**Pathophysiology / Mechanism:**
+
+- F. necrophorum is unable to penetrate healthy, intact mucous membrane or skin, but readily invades injured tissues → causes inflammation and necrosis → produces virulence factors including haemagglutinin, a haemolysin and leukotoxin
+
+**Diagnosis****:**
+
+- Typical lesions
+
+- Anaerobic culture of lesion swabs of affected tissue

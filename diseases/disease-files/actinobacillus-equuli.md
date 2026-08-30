@@ -1,26 +1,35 @@
-### Disease name
-Actinobacillus equuli
+**Common names:** Sleepy foal disease; neonatal septicaemia of foals
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses (foals and adult horses)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Foals primarily affected (sleepy foal disease); adult horses develop abortions, septicaemia, nephritis, peritonitis, endocarditis
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Cardiovascular / multi-systemic (septicaemia)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Urinary; Respiratory; Musculoskeletal
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Tranmission:** Ingestion, inhalation, via contaminated umbilicus; poor sanitation in foaling environment or colostrum intake deficit contribute
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Gram Negative** (non-motile rods; family Pasteurellaceae)
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Foals: Diarrhoea, meningitis, pneumonia (soft slow cough), purulent nephritis, septic polyarthritis (joint-ill), lethargic and weak, sucking reflex declines
+
+- Adult horses: Abortions, septicaemia, nephritis, peritonitis, endocarditis
+
+**Pathological signs:**
+
+- Multiple organs: Pyogranulomatous lesions in various organs (lungs, liver)
+
+**Pathophysiology / Mechanism:**
+
+- Entry via ingestion/inhalation/umbilicus → bacteraemia → localization in multiple organs → pyogranulomatous lesions and septicaemia → organ failure and death
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Bacterial culture and isolation (definitive diagnosis; many bacteria can cause same syndromes)

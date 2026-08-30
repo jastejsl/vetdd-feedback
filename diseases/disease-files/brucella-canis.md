@@ -1,26 +1,29 @@
-### Disease name
-Brucella canis
+**Common names:** Canine brucellosis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Wild canids (dogs)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Reproductive system
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Enters body via ingestion, genital, oronasal, conjunctival mucosa or broken skin; in utero infection (puppies remain persistently infected); can be spread by urine, faeces, genital discharges
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Females: abortion or stillbirth
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Males: epididymitis, periorchitis and prostatitis
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Persists in vaginal discharges for several weeks after abortion
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
+
+- [Awaiting feedback]
+
+**Pathophysiology / Mechanism:**
+
+- [Awaiting feedback]
+
+**Diagnosis:**
+
+- [Awaiting feedback]
+
+**Zoonosis:** yes (Brucella canis is noted among Brucella species causing human disease, with increasing severity: B. canis, B. abortus, B. suis, B. melitensis)

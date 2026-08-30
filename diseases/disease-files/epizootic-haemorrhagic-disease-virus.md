@@ -1,26 +1,35 @@
-### Disease name
-Epizootic haemorrhagic disease virus (EHDV)
+**Specific Causes:** Epizootic haemorrhagic disease virus (EHDV; genus Orbivirus; ≥8 serotypes; Ibaraki virus = serotype 2)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Most wild and domestic ruminants; mainly white-tailed deer; Ibaraki disease in cattle
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Vascular; Musculoskeletal; Digestive
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Via biting midges of genus Culicoides; non-contagious
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Deer: haemorrhagic disease
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Acute outbreaks in cattle: fever; anorexia; swelling of tongue; oral/nasal erosions; dyspnoea
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Ibaraki disease in cattle: fever; anorexia; difficulty swallowing
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
+
+- Musculoskeletal: degeneration of striated muscles of oesophagus, larynx, pharynx, tongue and skeletal muscles
+
+- GIT/Oral: oedema and haemorrhage in lips, mouth, abomasum, coronets
+
+**Pathophysiology / Mechanism:**
+
+- Unsure right now so leaving this blank as a placeholder - please submit feedback if you do know, will attempt to verify later
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Virus isolation
+
+- Serology

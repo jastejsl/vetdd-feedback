@@ -1,26 +1,33 @@
-### Disease name
-Klebsiella spp.
+**Caused by:** Klebsiella pneumoniae subsp. pneumoniae
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses, cattle, humans (zoonotic)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Environmental organism; low immunity and high contamination predispose; commonly associated with hospital infections
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Respiratory
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Gastrointestinal; Reproductive; Urinary; Mammary
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Tranmission:** Environment and intestinal tract; nosocomial infections; predisposed by low immunity and high contamination
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Gram Negative** (Rods; Enterobacteriaceae)
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Septicaemia
+
+- Enteritis
+
+- Pneumonia
+
+- Mastitis (bovine)
+
+- Metritis (equine)
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Hygiene measures and antibiotics (clinically ill)

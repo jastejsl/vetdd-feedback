@@ -1,26 +1,41 @@
-### Disease name
-Anaplasma marginale
+**Common names:** Bovine anaplasmosis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle; some wild ruminants
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Erythrocytes (obligate intracellular; situated at or near the MARGIN of the erythrocyte)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** 
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+Round; situated at MARGIN of erythrocyte. 
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Vectors as listed above; Iatrogenic; In utero.
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Reduced weight gain; reduced milk production
+
+- Abortion
+
+- Mortality in severe cases
+
+**Pathological signs:**
+
+- Blood: Anaemia (intracellular inclusion bodies in RBCs)
+
+**Pathophysiology / Mechanism:**
+
+- Dense form (infective) inoculated by tick → invades erythrocytes → reticulate form replicates by binary fission in inclusion body (morula) → dense forms released → re-infect RBCs → progressive haemolytic anaemia
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Giemsa-stained blood smear (inclusions at RBC margin); thick blood smear
+
+- Serology
+
+- PCR

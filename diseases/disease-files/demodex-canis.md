@@ -1,26 +1,43 @@
-### Disease name
-Demodex canis
+**Common names:** Demodectic mange mite; follicular mange; red mite of dogs
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dogs, Paediatric
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Integumentary
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Hair follicles and sebaceous glands
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** 'Tiny little crocodiles'; elongated cigar-shaped body
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** 
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- From bitch to puppies by direct contact
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Commensal in dogs (found in small numbers in healthy dogs)
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
+
+- Papules and pustules
+
+- Rancid butter smell
+
+- Most cases asymptomatic, resolved quickly
+
+- Localised/squamous form: patchy alopecia
+
+- Generalised/pustular form: extensive lesions, poor prognosis
+
+**Pathophysiology / Mechanism:**
+
+- Mites in hair follicles/sebaceous glands → follicular inflammation → papules/pustules
+
+- Genetic predisposition in some breeds
+
+**Diagnosis:**
+
+- Deep skin scrapings after area squeezed (to extrude mites from follicles). Two forms:
+  - Localised/squamous (good prognosis)
+  - Generalised/pustular (poor prognosis)
+
+- Demonstration of mites
+
+**Note:** Certain patients develop chronic demodicosis (genetic component — do NOT breed)

@@ -1,26 +1,45 @@
-### Disease name
-Spirocerca lupi
+**Common names:** Oesophageal worm of dogs; Spirocerca
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dogs, Cats
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+High prevalence in South Africa
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Gastrointestinal
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Cardiovascular
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Adults 3–8 cm; stout, coiled reddish worms in fibrous nodules; small-sized thick-shelled elongate egg with parallel sides, larvated; 
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+IH = dung beetles; migratory via walls of gastric arteries → abdominal aorta → thoracic oesophagus; PPP 4–6 months; pathognomonic sign = scarring of aorta
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Subacute: Clinically inapparent
+
+- Acute: Aortic rupture (sudden death)
+
+- Chronic: Vomiting, regurgitation, anorexia, weight loss, salivation, coughing, oedema of throat, dyspnoea
+
+- Neoplastic form: Cachexia, vomiting, hypertrophic osteopathy
+
+**Pathological signs:**
+
+- Aorta: Scarring; verminous arteritis; aortic aneurysm
+
+- Oesophagus: Fibrous nodules
+
+- Malignant tumorigenesis: Oesophageal fibrosarcomas and osteosarcomas; deformative ossifying spondylitis
+
+**Pathophysiology / Mechanism:**
+
+- Ingestion of infected dung beetles or paratenic hosts → L3 hatch in stomach → migrate through walls of gastric arteries → abdominal aorta → thoracic oesophagus → fibrous nodules → malignant transformation possible
+
+**Diagnosis:**
+
+- Clinical Signs (history, signalment)
+
+- Pathology (scarring of aorta — pathognomonic)
+
+- Endoscopy and radiography
+
+- Eggs in faecal samples and faecal flotation

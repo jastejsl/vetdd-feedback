@@ -1,26 +1,61 @@
-### Disease name
-Contagious pyelonephritis (Cystitis)
+**Caused by:** Corynebacterium cystitidis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle, sheep
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Most virulent of the Corynebacterium renale group; usually causes only cystitis (rarely progresses to pyelonephritis)
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Urinary
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Tranmission:** Urine aerosol spray onto vulva of susceptible cows in close contact; venereal transmission possible; careless use of AI catheters
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Gram Positive** (Non-sporing, irregular rods; commensal in external urogenital tract of cattle and sheep)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Cystitis: frequent painful urination
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Urine is bloody and cloudy with a foetid odour
+
+- Decreased milk production
+
+- Loss of condition
+
+- Tense abdominal wall
+
+- Anorexia, colic
+
+**Pathological signs:**
+
+- Bladder: Thickened and inflamed
+
+- Ureters: Thickened and dilated with purulent exudate
+
+**Pathophysiology / Mechanism:**
+
+- Bacteria part of normal flora of vagina → following deposition of large numbers on vulva → bacteria adhere to vulva mucosa → migrate to urinary tract → colonise bladder (urine aerosol, coitus) → grow in increased urea and elevated pH → cystitis → (rarely) ascending infection to ureters and renal pelvis
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Cytology of urine sediment for bacteria
+
+- Blood haematology and biochemistry: left-shift neutrophilia, increased urea, decreased sodium
+
+- Urine culture to identify organism
+
+- Collect midstream urine (bloody, cloudy, offensive odour)
+
+**Lab Findings**:
+
+- Left-shift neutrophilia
+
+- Increased blood creatinine and urea, decreased sodium
+
+- Urine: proteinuria and haematuria on dipstick
+
+**Fun fact:**
+
+- Most virulent of renale group but usually confined to cystitis only

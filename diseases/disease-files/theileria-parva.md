@@ -1,26 +1,53 @@
-### Disease name
-Theileria parva
+**Common names:** East Coast Fever (ECF); Corridor disease
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle; African buffalo (reservoir, subclinical)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Three forms: 
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+1. ECF (cattle-associated T. parva) - eradicated in SA.
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+1. Corridor disease (buffalo-associated T. parva) - present in SA, buffalo is reservoir
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+1. January disease/Zimbabwe theileriosis (cattle-associated T. parva bovis). 
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+Corridor disease mortality above 90%. Malignant, transforming Theileria.
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Primary Organ Systems:** Haematological; Lymphatic
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Transforming spp.; schizonts in lymphocytes (lymphoproliferation/clonal expansion); piroplasms in RBCs; vectors: Rhipicephalus appendiculatus (brown ear tick) + R. zambeziensis; transstadial transmission.
+
+**Carrier of:** could not find information
+
+**Clinical Signs:**
+
+- Fever; lymphadenopathy; anaemia
+
+- Severe weight loss; weakness; death
+
+- Corridor disease: Mortality above 90%
+
+**Pathological signs:**
+
+- Lymph nodes: Massive lymphoproliferation
+
+- Blood: Anaemia
+
+**Pathophysiology / Mechanism:**
+
+- Tick (R. appendiculatus) injects sporozoites → schizogony in lymphocytes → lymphoproliferation (clonal expansion of infected lymphoblasts) → merogony → merozoites invade RBCs → piroplasms; buffalo reservoir subclinical
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Blood smear (piroplasms)
+
+- Lymph node biopsy (schizonts)
+
+- Serology
+
+- PCR
+
+**Notifiable / Controlled Disease:** yes

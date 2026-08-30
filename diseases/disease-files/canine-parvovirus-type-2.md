@@ -1,26 +1,51 @@
-### Disease name
-Canine parvovirus type 2
+**Specific Causes:** Protoparvovirus carnivoran 2 (CPV-2a, CPV-2b, CPV-2c)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Members of family Canidae (dogs, foxes, wolves)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Digestive; Lymphoid/Immune
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Cardiovascular (myocarditis in neonates); Nervous
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Oronasal route; contact with faeces; shed in faeces; highly contagious; non-enveloped — extremely stable in environment
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Leukopenia
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Enteritis: vomiting, foul-smelling bloody diarrhoea, anorexia, dehydration
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Hypoglycaemia
+
+- Myocarditis in neonatal pups
+
+- Hypercoagulability / thrombosis
+
+- Advanced: cold extremities, cyanotic mucous membranes
+
+- Neurological: direct infection or secondary to DIC/hypoglycaemia
+
+**Pathological signs:**
+
+- GIT: haemorrhagic enteritis; intestinal lumen empty or filled with haemorrhagic fluid; catarrhal to necrotic enteritis
+
+- Lymphoid: thymic and lymphoid atrophy; oedema and hyperplasia of lymph nodes; haemorrhagic mesenteric lymph nodes
+
+- Cardiovascular: myocarditis — pulmonary oedema, hydrothorax, hydropericardium; flabby heart with pale necrotic areas
+
+**Pathophysiology / Mechanism:**
+
+- Entry and primary replication in lymphoid tissue of oropharynx, mesenteric lymph nodes and thymus → spread via blood to lymphoid tissues and germinal epithelium of intestinal crypts of SI → villous collapse → disruption of intestinal mucosa → bacterial invasion → septicaemia/endotoxaemia; simultaneously destroys leukocyte precursors → leukopenia
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Faecal ELISA antigen test (PCR snap test)
+
+- PCR
+
+- Electron microscopy
+
+- Serology

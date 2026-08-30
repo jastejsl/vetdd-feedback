@@ -1,26 +1,39 @@
-### Disease name
-Crimean-Congo haemorrhagic fever virus (CCHF)
+**Specific Causes:** Crimean-Congo haemorrhagic fever virus
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Mammals (reservoir hosts: cattle, sheep, goats, hares, hedgehogs); humans (only species showing clinical disease)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Vascular (humans only)
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Hyalomma spp. ticks (primary vector); transovarial, transstadial, and venereal transmission in ticks; viraemic mammals transmit to feeding ticks; humans infected by tick bite or contact with infected animal blood/tissues
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Animals: asymptomatic (viraemic only; no clinical signs)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+Acute (humans only):
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Pre-haemorrhagic phase: fever; chills; headache; myalgia
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Haemorrhagic phase: petechial rash; ecchymoses; haematuria; bleeding from multiple sites
+
+- High mortality in humans (10–80%)
+
+**Pathological signs:**
+
+- Animals: no pathological signs
+
+- Humans: haemorrhagic disease with multi-organ involvement
+
+**Pathophysiology / Mechanism:**
+
+- Tick transmits virus to viraemic mammal → mammals remain asymptomatic; humans: virus enters via tick bite or contact → vascular endothelial damage → haemorrhagic disease
+
+**Diagnosis:**
+
+- Clinical Signs (in humans)
+
+- Serology to identify animal carriers
+
+**Control:** Acaricides (tick control)
+
+**Zoonosis:** yes

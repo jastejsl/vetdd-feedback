@@ -1,26 +1,55 @@
-### Disease name
-Lymphadentitis (caseous/ulcerative)
+**Caused by:** Corynebacterium pseudotuberculosis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Common names:** 
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+- Caseous lymphadenitis (CLA) — sheep/goats
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+- Pigeon fever / Dryland distemper — horses
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+- Ulcerative lymphangitis
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Affects:** Sheep, goats; horses; cattle (ulcerative lymphangitis); humans (lymphadenitis)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+No evidence of cross-infection between species; bacteria can persist in contaminated soil for up to 2 years
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Lymphatic
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Respiratory (visceral abscesses in lungs); Renal; Hepatic
+
+**Tranmission:** Direct contact with pus or secretions from abscesses through wounds; ingestion; inhalation; fomites; lactogenic transmission (if mammary gland access); high environmental contamination; dipping vats
+
+**Gram Positive** (Facultative intracellular anaerobe, non-sporing, irregular rods)
+
+**Clinical Signs:**
+
+- External abscesses behind ears, beneath jaw, on neck, shoulders, rear flank region
+
+- Enlarged soft or doughy lymph nodes
+
+- Thick, semi-fluid to inspissated yellowish-white to greenish-white pus
+
+- Internal abscesses: fatal, only seen at necropsy (sheep more prone than goats, horses)
+
+- Progressive weight loss, weakness and collapse
+
+**Pathological signs:**
+
+- Lymph nodes: Enlarged, abscessed with thick yellow-green pus; eventually rupture forming fistulae
+
+- Lungs, kidney, liver: Internal abscesses (visceral form)
+
+**Pathophysiology / Mechanism:**
+
+- Entry through wounds/skin trauma → infiltrates macrophages (survives in phagolysosomes via corynomycolic acid — pyogenic, resists lysosomal digestion) → spread via lymphatics throughout body → abscessation at resting sites; phospholipase D (exotoxin) increases vascular permeability → local oedema → increased bacterial spread
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Culture from edges of abscesses (pasty thick yellow-green pus with foul odour)
+
+- Serological tests: ELISA (not useful in vaccinated flocks)
+
+- Internal abscesses: X-ray, biopsy or post-mortem

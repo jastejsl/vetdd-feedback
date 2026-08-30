@@ -1,26 +1,53 @@
-### Disease name
-Coxiella burnetii
+**Common names:** Q fever (in humans)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Sheep, goats, cattle, dogs, cats, birds, reptiles, arthropods, humans (zoonotic)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Very broad host range; extremely resistant to desiccation, pH changes, disinfectant and ultraviolet radiation; organisms remain infective in environment for months
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Reproductive
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Tranmission:** Primarily by inhalation (aerosol from placenta, uterine discharges, vaginal fluid); large numbers shed during abortion/parturition in placenta, faeces, urine, milk; ticks play a minor role
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Gram Negative** (Obligate intracellular pathogen; biphasic life cycle)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Abortion, premature births, stillbirths, weak offspring
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Transient fever
+
+- Sheep/goats: epidemic and sporadic abortions
+
+- Cattle: sporadic abortions only
+
+- Dogs/cats: stillbirths and weak offspring
+
+**Pathological signs:**
+
+- Placenta: Necrotic placentitis
+
+**Pathophysiology / Mechanism:**
+
+- Inhalation of aerosol → bacteria targets monocytes and macrophages → bacteraemia → hormonal changes during pregnancy trigger mass replication → placentitis → abortion/premature births/stillbirths
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Necropsy of necrotic placentitis
+
+- PCR
+
+- Immunohistochemistry
+
+- In situ hybridization
+
+- Histochemical stains
+
+- Isolation by culture not routine (poor sensitivity and risk to lab workers)
+
+**Zoonosis:** yes
+
+Q fever in humans: flu-like illness, atypical pneumonia, atypical hepatitis; chronic Q fever: endocarditis, chronic fatigue syndrome; infection through inhalation or ingestion of infected dairy products

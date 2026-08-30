@@ -1,26 +1,47 @@
-### Disease name
-West Nile virus
+**Specific Causes:** West Nile virus 
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Birds (natural host); horses (incidental host); humans (incidental host); dogs and cats (susceptible but more resistant)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Birds develop high-titre viraemia; horses develop low-titre viraemia → CNS lesions
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Nervous
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Mosquito vector; birds are the amplifying host
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+Acute:
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Horses: encephalitis; paralysis of hind legs; muscle fasciculation; ataxia; depression
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Mortality up to 40% in horses
+
+- Dogs/cats: susceptible but more resistant than horses
+
+**Pathological signs:**
+
+- CNS: widespread tissue necrosis in birds
+
+- CNS lesions in horses
+
+**Pathophysiology / Mechanism:**
+
+- Mosquito bite → CNS tropism → encephalitis and neurological signs
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- IgG seroconversion
+
+- IgM antibody detection
+
+- RT-PCR
+
+- Virus isolation by cell culture
+
+**Zoonosis:** yes
+
+- 80% of human infections are asymptomatic; can cause fatal neurological disease; recombinant canarypox WNV vaccine available for horses; mosquito control recommended

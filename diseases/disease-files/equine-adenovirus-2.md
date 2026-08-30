@@ -1,26 +1,25 @@
-### Disease name
-Equine adenovirus-2
+**Specific Causes:** Equine mastadenovirus B (EAdV-2)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Subclinical in normal foals; causes GI infections
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Digestive (GIT)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Typically subclinical
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- GI infections in foals
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- GIT: intestinal epithelial involvement
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Virus isolation; antibody tests

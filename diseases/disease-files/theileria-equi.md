@@ -1,26 +1,47 @@
-### Disease name
-Theileria equi
+**Common names:** Equine piroplasmosis; Biliary fever
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses; donkeys; mules
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Major cause of abortion in horses; mare is subclinical carrier; freely crosses the placenta; worldwide distribution.
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Reproductive; Renal
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Maltese cross (tetrad) formation in erythrocytes (characteristic)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Vector
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Anaemia; icterus
+
+- Ecchymoses
+
+- Abortion (sporadic; mare subclinical carrier; high parasitaemia in abortus + placenta)
+
+- Nephrosis in neonates
+
+**Pathological signs:**
+
+- Blood: Haemolytic anaemia; icterus
+
+- Kidney: Nephrosis (neonate)
+
+**Pathophysiology / Mechanism:**
+
+- Tick bite → sporozoite invasion of lymphocytes + RBCs → merogony/schizogony → merozoites invade RBCs → piroplasms → haemolysis; transplacental transmission → abortion
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Thick blood smear (Maltese cross)
+
+- Serology
+
+- PCR
+
+**Notifiable / Controlled Disease:** yes

@@ -1,26 +1,49 @@
-### Disease name
-Trypanosoma equiperdum
+**Common names:** Dourine
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses; mules; donkeys
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Reproductive
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Nervous system; Integument
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Monomorphic; 15–34 µm long; kinetoplast subterminal; undulating membrane well developed; substantial free flagellum; difficult to distinguish from T. brucei; identical to T. evansi. 
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Waxing and waning clinical signs
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Anaemia
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+Acute:
+
+- Phase I: Oedema of genitalia; discharge from urethra and vagina; low recurrent fever; progressive oedema
+
+- Phase II: Raised urticarial skin plaques (PATHOGNOMONIC) over the ribs); progressive weight loss; muscle atrophy
+
+- Phase III: Incoordination → ataxia → paralysis (NS involvement)
+
+**Pathological signs:**
+
+- Derms: Oedematous plaques; peripheral oedema
+
+- Reproductive: 
+  - Stallion — enlarged scrotum, sheath, testicular tunica
+  - Mare — enlarged vulva, vaginal mucosa, uterus, urinary bladder, mammary glands
+
+- Peripheral nerves:  cachexia; muscular hypotrophy
+
+- Lymph nodes: Enlarged lnn. in abdominal cavity
+
+**Pathophysiology / Mechanism:**
+
+- Venereal transmission at coitus → proliferation in genital tract → parasitaemia → immune-mediated tissue damage → vasculitis and oedema of genitalia → urticarial skin plaques → NS involvement → paralysis
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Serology: Complement Fixation Test (OIE-prescribed for international trade); ELISA; IFAT
+
+**Notifiable / Controlled Disease:** yes

@@ -1,26 +1,51 @@
-### Disease name
-Jaagsiekte
+**Specific Causes:** Jaagsiekte sheep retrovirus 
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**A.K.A:** Ovine pulmonary adenomatosis
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Affects:** Sheep (especially karakul and merino breeds); goats (less susceptible)
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+Transmissible contagious broncho-alveolar adenocarcinoma; all continents except Australia
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Respiratory
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Aerosol droplets; intrapulmonary, intrapleural, intratracheal or subcutaneous routes; shed in respiratory secretions
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Only seen when lung lesions are advanced
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Initially no fever (unless secondary bacterial infections)
+
+- Rapid weight loss
+
+- Lag behind flock (‘jaag hom aan’)
+
+- Exercise: respiratory distress; jerky and short respiratory movements
+
+- Progressive dyspnoea
+
+- Bouts of coughing
+
+- Fluid streams from nostrils when animal lifted by hind legs (wheelbarrow test positive)
+
+- Appetite impaired
+
+- Secondary pneumonia (fever)
+
+**Pathological signs:**
+
+- Respiratory: lungs fill thoracic cavity; chronic adhesive pleuritis (secondary bacterial); lesions solid, tumour-like, greyish with tough consistency; lung wet on cut surface
+
+**Pathophysiology / Mechanism:**
+
+- Virus infects type II secretory epithelial cells and non-ciliated terminal bronchiolar epithelial cells → neoplastic transformation → transformed cells proliferate and form clusters → obliterate alveolar lumen → excessive surfactant-containing viscous fluid accumulates → death from anoxia
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Wheelbarrow test (lift hindlimbs → fluid pours from mouth/nostrils)
+
+- Histopathology

@@ -1,26 +1,61 @@
-### Disease name
-Porcine reproductive and respiratory syndrome
+**Specific Causes:** Porcine reproductive and respiratory syndrome virus (genus Arterivirus / Porartevirus; enveloped RNA)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**A.K.A:** Blue Ear Disease
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Affects:** Pigs
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Respiratory; Reproductive
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Nervous; Cardiovascular; Integumentary
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Respiratory route; oral route; venereal; transplacental; intramuscular; intravenous; artificial insemination (semen)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Blue discolouration of ears, teats, snouts, ventral cervical skin, and vulva
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Reproductive failure; abortions; stillbirths
+
+- Respiratory signs in piglets under 3 weeks of age
+
+- Peri-ocular oedema
+
+- Diarrhoea
+
+- Fever
+
+Acute:
+
+- Sudden onset fever; anorexia; lethargy
+
+- Cyanotic discolouration (blue ear disease)
+
+- Respiratory distress in young piglets
+
+- High rates of reproductive failure in sows
+
+**Pathological signs:**
+
+- Respiratory: lungs greyish and less likely to collapse; rhinitis
+
+- CNS: lymphocytic encephalitis
+
+- Cardiovascular: myocarditis
+
+**Pathophysiology / Mechanism:**
+
+- Replication in alveolar macrophages → apoptosis of macrophages → immunosuppression → secondary infections; transplacental spread → reproductive failure
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Virus isolation
+
+- PCR
+
+- Serology (ELISA)
+
+**Notifiable / Controlled Disease:** yes

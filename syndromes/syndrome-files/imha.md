@@ -1,1 +1,1 @@
-To be updated at a later date
+Further information for Immune Mediated Haemolytic Anaemia will be added in due course.

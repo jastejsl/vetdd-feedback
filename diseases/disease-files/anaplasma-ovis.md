@@ -1,26 +1,29 @@
-### Disease name
-Anaplasma ovis
+**Common names:** Ovine/caprine anaplasmosis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Sheep; goats
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Erythrocytes
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** [awaiting feedback on tick specificity]
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Likely signs that stem from anaemia
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- [Awaiting feedback]
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
+
+- Blood: Anaemia
+
+**Pathophysiology / Mechanism:**
+
+- Tick bite → RBC invasion → haemolytic anaemia
+
+**Diagnosis:**
+
+- Blood smear (Inclusion bodies)
+
+- PCR

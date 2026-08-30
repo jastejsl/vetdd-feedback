@@ -1,26 +1,41 @@
-### Disease name
-Caprine arthritis-encephalitis virus
+**Specific Causes:** Caprine arthritis-encephalitis virus
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Goats
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Not diagnosed in South Africa; morphologically and physically indistinguishable from maedi-visna virus
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Nervous (young); Musculoskeletal (adults)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Respiratory; Mammary
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Younger goats: leukoencephalomyelitis
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Older goats: slower, progressive arthritis; interstitial pneumonia; chronic mastitis
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
+
+- CNS: leukoencephalomyelitis (young)
+
+- Joints: progressive arthritis (older)
+
+**Pathophysiology / Mechanism:**
+
+- could not find information
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- could not find information
+
+---
+
+### Markers:
+
+**Lab Findings**:
+
+- could not find information

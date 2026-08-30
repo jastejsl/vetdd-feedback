@@ -1,26 +1,35 @@
-### Disease name
-Canine coronavirus
+**Specific Causes:** Canine alphacoronavirus
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Domestic dogs (can also infect domestic cats)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Highly infectious; low mortality; low impact; prevalent in puppies
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Digestive (GIT)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Found in faeces; transmitted via oronasal route; shed in faeces
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Mild to moderate enteritis with diarrhoea
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Stools loose and mushy, often yellow-orange and foul smelling
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Vomiting
+
+**Pathological signs:**
+
+- GIT: gas and fluid-distended loops of small intestine with green-yellow, watery contents; virus migrates to tips of villi and causes diarrhoea
+
+**Pathophysiology / Mechanism:**
+
+- After 1–4-day incubation, virus replicates in epithelial cells of SI → localises at tips of villi → loss of absorptive capacity → diarrhoea
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Detection of virus in faeces or intestines with TEM (transmission electron microscopy)
+
+- PCR snap test; ELISA antigen test; necropsy and histopathology

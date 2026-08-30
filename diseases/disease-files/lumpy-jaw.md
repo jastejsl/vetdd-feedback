@@ -1,26 +1,49 @@
-### Disease name
-Lumpy jaw
+**Caused by:** Actinomyces bovis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle (2–5 years most commonly); horses
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Cattle primarily affected; commensal of oropharynx colonised during postpartum period
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Skeletal (bone - mandible/maxilla)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Alimentary (oral soft tissues); occasionally liver, lungs, lymph nodes
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Tranmission:** Oral trauma allowing submucosal infection (commensal of oropharynx); predisposed by coarse feed, tooth shedding/eruption, periodontitis
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Gram Positive** (anaerobic rods)
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Painless osseous swelling of mandible, developing slowly over months
+
+- Sinus tracts may be present
+
+- Swelling immovable
+
+- Affects mastication → emaciation
+
+- Teeth misalignment, pain, pathological jaw fractures
+
+- Fistulous withers in horses
+
+**Pathological signs:**
+
+- Bone: Osteomyelitis with honeycomb appearance (bone necrosis and proliferation); pus in bone and soft tissue contains sulphur granules (Splendore-Hoepli bodies, yellow soft to hard)
+
+- Soft tissue: Pyogranulomatous osteomyelitis; abscesses and sinuses draining outward or inward
+
+**Pathophysiology / Mechanism:**
+
+- Oral trauma → bacteria enter periodontal membrane/submucosal tissue → necrogranulomatous inflammation → pyogranulomatous osteomyelitis → bone necrosis + proliferation of granulation tissue + abscesses → honeycomb jaw appearance → haematogenous spread to other organs (rare)
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Physical appearance of mandible/maxilla
+
+- Microscopic exam of sulphur granules or biopsy specimens
+
+- Laboratory culture and ID

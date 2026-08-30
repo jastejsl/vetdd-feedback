@@ -1,26 +1,43 @@
-### Disease name
-Nocardiosis
+**Caused by: **Nocardia asteroides 
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Bovine; Canine
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Reproductive, Haemopoetic, Integumentary
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Trauma in dogs, [Awaiting feedback for bovine]
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+Cows:
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Mastitis
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Lesions in mouth
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Pyogranulomatous lesions in jaw
+
+Dogs:
+
+- Immunosuppressive
+
+- Transmission usually puncture wound or foreign body
+
+- Normally pulmonary or cutaneous lesions
+
+**Pathological signs:**
+
+- [Awaiting feedback]
+
+**Pathophysiology / Mechanism:**
+
+- [Awaiting feedback]
+
+**Diagnosis****:**
+
+- Based on clinical, epidemiological and microbiological findings
+
+- Culture
+
+- Histopathology: sometimes shows micro-colonies (sulphur granules) 
+
+**Zoonosis:** yes (opportunistic disease)

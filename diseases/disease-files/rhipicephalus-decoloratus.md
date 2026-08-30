@@ -1,26 +1,51 @@
-### Disease name
-African blue tick
+**Latin name:** Rhipicephalus decoloratus
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Common names:** African blue tick
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle; horses
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+1-host tick affecting cattle and horses; adults found on side of body, shoulders, neck and dewlap; immatures in the ear.
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematopoietic
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Integument
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Adults: side of body, shoulders, neck and dewlap; Immatures: ear
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** 1-host ixodid tick; blue-coloured engorged females; adults on lateral body; immatures in ear canal
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Carrier of:** *Babesia bigemina*; *Anaplasma marginale*
+
+**Clinical Signs:**
+
+- Tick presence
+
+- Clinical signs primarily associated with transmitted pathogens (see *Babesia bigemina*, *Anaplasma marginale*)
+
+- Anaemia
+
+- Haemoglobinuria (redwater) when transmitting *B. bigemina*
+
+**Pathological signs:**
+
+- Haematopoietic: anaemia, haemolysis when transmitting *Babesia bigemina*
+
+- Integument: attachment wound sites
+
+**Pathophysiology / Mechanism:**
+
+- Tick feeds → inoculates *Babesia bigemina* or *Anaplasma marginale* → intraerythrocytic parasitism → haemolysis and anaemia
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Identification of 1-host tick on cattle/horses
+
+- Blood smears for *Babesia* or *Anaplasma*
+
+**Lab Findings**:
+
+- Blood smear: intraerythrocytic piroplasms (*Babesia bigemina*); marginal bodies (*Anaplasma marginale*)

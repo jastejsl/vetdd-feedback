@@ -1,26 +1,31 @@
-### Disease name
-Babesia occultans
+**Common names:** Bovine babesiosis (mild)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Babesia spp. in erythrocytes; transmitted by Hyalomma spp.
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Mild disease; sometimes clinically inapparent
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Blood: Mild anaemia
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+**Pathophysiology / Mechanism:**
+
+- Tick bite → RBC invasion → mild haemolysis
+
+**Diagnosis:**
+
+- Thin/thick blood smears
+
+- Serology
+
+- PCR
+
+---
+
+[need feedback if this is even worth keeping]

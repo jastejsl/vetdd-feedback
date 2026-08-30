@@ -1,26 +1,47 @@
-### Disease name
-Canid alphaherpesvirus 1 (CHV-1)
+**Specific Causes:** Canid alphaherpesvirus 1
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Domestic and wild members of family Canidae only
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Reproductive; Neonatal (systemic)
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** CNS (neonatal); Renal; Hepatic
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Direct contact via oronasal secretions; in utero; infection in the birth canal
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Pregnant bitches: infertility; stillbirths
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- In utero: abortions; stillbirths; weak puppies with neurological signs
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Neonatal pups (\<1 week): dull and depressed; soft yellow-green faeces; cry persistently; abdominal discomfort; meningoencephalitis; death
+
+- Older pups/adults: asymptomatic; venereal — vaginitis in bitches (vesicular lesions)
+
+**Pathological signs:**
+
+- Multi-organ: small foci of necrosis and haemorrhage in many organs (kidneys, liver, lungs)
+
+- CNS: meningoencephalitis
+
+- Lymphoid: lymphoid hyperplasia in lymph nodes and spleen
+
+- Vascular: DIC
+
+- Reproductive: necrotic lesions in lung and liver of puppies; multifocal haemorrhages in kidneys; lymphoid follicles over base of penis or vaginal mucous membranes (older dogs)
+
+**Pathophysiology / Mechanism:**
+
+- Pups <1 week: primary replication in nasal/pharyngeal mucosa and tonsils → spreads via macrophages and leucocytes in bloodstream → lymphoid hyperplasia → multifocal necrosis → DIC; reduced capacity for temperature regulation makes pups very susceptible
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Histopathology
+
+- Viral isolation
+
+- Serology

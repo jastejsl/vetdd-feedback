@@ -1,26 +1,57 @@
-### Disease name
-Contagious Pustular Dermatitis
+**Specific Causes:** Orf virus (Parapoxvirus)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Sheep; goats; lambs; kids
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Integumentary
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Oral; Genital; Pedal
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Skin abrasions and wounds; lambs infect ewes via udder wounds during suckling
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- 4 forms: Labial (most common), Genital, Pedal, Generalized (rare)
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+Acute:
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Papules → pustules → dark brown scabs over approximately 11 days
+
+- Emaciation (especially lambs unable to suckle due to labial lesions)
+
+- Labial form: proliferative/scabby lesions around lips, nostrils, and mouth
+
+- Genital form: lesions on prepuce, vulva
+
+- Pedal form: lesions at coronary band
+
+- Generalized (rare): widespread skin involvement
+
+**Pathological signs:**
+
+- Integumentary: ballooning degeneration of keratinocytes; papules → pustules → scabs; intracytoplasmic eosinophilic inclusion bodies
+
+- Emaciation in severe cases
+
+**Pathophysiology / Mechanism:**
+
+- Virus enters via skin abrasions → replication in epidermis → ballooning degeneration of keratinocytes → papule formation → pustule formation → dark brown scabs (approx. 11 days)
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Electron microscopy (negatively stained preparation)
+
+- Virus isolation
+
+**Lab Findings**:
+
+- Intracytoplasmic eosinophilic inclusion bodies on histopathology
+
+**Prevention:**
+
+- Scarification vaccine (Onderstepoort): ewes vaccinated 1 month before lambing; lambs at 1 week; annually
+
+**Zoonosis:** yes

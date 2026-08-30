@@ -1,26 +1,53 @@
-### Disease name
-Equine influenza virus subtype 1 (H7N7)
+**Specific Causes:** Equine influenza virus subtype 1 (H7N7)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+H7N7 subtype is considered extinct; notifiable and controlled disease in South Africa; high contagion
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Respiratory
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Musculoskeletal
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Inhalation only (cough aerosol); cough spreads virus up to 32 metres
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Dry harsh cough
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Biphasic fever
+
+- Mild rhinitis
+
+- Anorexia
+
+- Dyspnoea
+
+- Myalgia (muscle pain)
+
+- Secondary bacterial infections: continuous fever + mucopurulent discharge
+
+Acute:
+
+- Sudden onset harsh dry cough with rapid spread through herd
+
+- High temperature; anorexia
+
+**Pathological signs:**
+
+- Respiratory: complete decimation of cilia within 4 days; loss of ciliated epithelial cells in upper and lower respiratory tracts; impaired mucociliary clearance
+
+**Pathophysiology / Mechanism:**
+
+- Haemagglutinin (HA) mediates attachment to respiratory epithelium → neuraminidase (NA) allows transport and elution → virus infects epithelial cells of upper and lower respiratory tracts → complete decimation of cilia in 4 days → impaired mucociliary clearance → secondary bacterial infections
+
+**Diagnosis:**
+
+- Clinical Signs (harsh cough + high temperature + rapid spread)
+
+- Pathology
+
+- Virus isolation (nasopharyngeal swabs in transport medium on ice)
+
+- Haemagglutination inhibition test
+
+**Notifiable / Controlled Disease:** yes

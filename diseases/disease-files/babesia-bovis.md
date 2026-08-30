@@ -1,26 +1,48 @@
-### Disease name
-Babesia bovis
+**Common names:** Asiatic redwater; Bovine babesiosis (acute)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle; water buffalo
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Nervous system (cerebral babesiosis)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Paired piriform or club-shaped merozoites forming OBTUSE angle ('bow-tie'); smaller merozoites than B. bigemina. 
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Vector — adult ticks infected, larvae transmit.
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Fever; anaemia; jaundice
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Haemoglobinuria (redwater)
+
+- Inappetence; weakness; prostration
+
+- Can cause cerebral babesiosis
+
+**Pathological signs:**
+
+- Blood: Haemolytic anaemia; haemoglobinuria
+
+- Brain: Cerebral babesiosis (parasitised RBCs in brain capillaries) 
+  - [need feedback for specific signs]
+
+**Pathophysiology / Mechanism:**
+
+- Tick larvae transmit sporozoites → RBC invasion → merogony → RBC lysis → intravascular haemolysis → redwater + icterus + anaemia; cytoadherence of parasitised RBCs in brain capillaries → cerebral babesiosis
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Thin/thick blood smears
+
+- Serology
+
+- PCR
+
+**Lab Findings**:
+
+- Haemoglobinuria; anaemia; haemoglobinaemia

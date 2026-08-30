@@ -1,26 +1,45 @@
-### Disease name
-Brucella melitensis
+**Common names:** Malta fever (in humans); undulant fever (in humans)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Sheep and goats (reservoir hosts); cattle (rare, only with close contact with infected goats/sheep)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Reservoir in sheep and goats.
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Reproductive system
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Mammary gland; Joints (arthritis/hygromas)
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Excretion during abortion/parturition, continuing in vaginal discharge for 3–8 weeks; milk; vertical transmission (in utero) is rare but may be important; reasonably resistant in environment (2 months)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Late-term abortions
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Retained placenta
+
+- Reduced milk yield
+
+- Orchitis/epididymitis (rare)
+
+- Arthritis (hygromas)
+
+**Pathological signs:**
+
+- [Awaiting feedback]
+
+**Pathophysiology / Mechanism:**
+
+- [Awaiting feedback]
+
+**Diagnosis:**
+
+- Impression smears (Stamp's stain — placenta, vaginal discharge, foetal stomach contents, lungs, liver)
+
+- Culture
+
+- PCR
+
+- Serology: RBT, CFT, ELISA, FPA
+
+**Notifiable / Controlled Disease:** yes (Controlled disease in SA)
+
+**Zoonosis:** yes

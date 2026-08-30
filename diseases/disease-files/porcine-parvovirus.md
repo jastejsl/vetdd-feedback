@@ -1,26 +1,49 @@
-### Disease name
-Porcine parvovirus
+**Specific Causes:** Protoparvovirus ungulate 1 (Porcine parvovirus)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Pigs (primarily sows)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Reproductive
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Oronasal and vertical (transplacental); shed in faeces, urine, saliva, nasal secretions and boar ejaculate; contaminated premises are major reservoirs; highly stable in environment
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Usually subclinical in adults
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Sow: reproductive failure, transient leukopenia
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Neonates: domed heads and slow movement
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Infection \<35 days gestation: death, resorption of embryos, irregular return to oestrus, reduced litter size
+
+- Infection 35–70 days: foetal death, mummification
+
+- Infection \>70 days: immune response in foetus, abortions (rare)
+
+- Increased number of sows returning to oestrus; reduced litter sizes
+
+**Pathological signs:**
+
+- Reproductive: mummified foetuses; stillbirths; embryonic death
+
+**Pathophysiology / Mechanism:**
+
+- Initial site of replication in oropharynx → spread via blood to lymphoid and crypt cells → transplacental infection → foetal death and mummification (outcome depends on gestation stage)
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Serology
+
+- IFA on lungs of foetuses \<16 cm long
+
+- Haemagglutination-inhibition test
+
+- Virus isolation
+
+**Distinct Syndrome:**
+
+- SMEDI syndrome (Stillbirth, Mummification, Embryonic Death, Infertility)

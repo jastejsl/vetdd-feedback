@@ -1,26 +1,33 @@
-### Disease name
-Mammalian rubulavirus
+**Specific Causes:** Mammalian rubulavirus 5 (previously Parainfluenza virus 5)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dogs
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Respiratory
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Shed in aerosol droplets; direct contact
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Mild infection
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Harsh, dry, unproductive cough
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Irritable trachea
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Causes Kennel Cough: acute, self-limiting cough that predisposes to bacterial infections (e.g. Bordetella bronchiseptica)
+
+**Pathological signs:**
+
+- Respiratory: damages upper respiratory mucosa; necrosis of ciliated epithelium
+
+**Pathophysiology / Mechanism:**
+
+- Virus damages upper respiratory mucosa → impairs mucociliary clearance → paves way for secondary bacterial infections (Bordetella bronchiseptica)
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Rising antibody titre using haemagglutination-inhibition assay

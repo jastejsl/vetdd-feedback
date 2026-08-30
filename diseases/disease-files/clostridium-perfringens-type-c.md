@@ -1,26 +1,53 @@
-### Disease name
-Clostridium perfringens Type C
+**Common names:** Haemorrhagic enterotoxaemia; necrotic enteritis; bloodgut; bloedderm
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle (newborn calves); sheep (lambs, occasionally adult sheep); pigs (piglets, neonatal pigs <7 days)
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Mainly young animals (occasionally diagnosed in SA in calves, lambs and piglets); affects all animals causing haemorrhagic enterotoxaemia or haemorrhagic/necrotic enteritis.
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Gastrointestinal tract (jejunum and ileum)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Associated lymph nodes (haemorrhagic and enlarged)
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Piglets ingest organism from faecally contaminated teats and udders of sows; workers carry in spores
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+Cattle:
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Newborn calves develop necrotic enteritis
+
+- Depression, weakness, haemorrhagic diarrhoea
+
+Sheep:
+
+- Lambs either die without clinical signs or show signs of toxaemia and haemorrhagic enteritis
+
+- Death within 12–72 hours
+
+- Adult sheep: weak and prostrate; most animals suddenly become comatose and die; few manifest convulsive fits
+
+Pigs:
+
+- Fatal haemorrhagic diarrhoea and enterotoxaemia in neonatal pigs <7 days
+
+- Piglets die acutely or show haemorrhagic diarrhoea
+
+**Pathological signs:**
+
+- GIT (pigs): lesions usually confined to jejunum and ileum, which is dark red and filled with haemorrhagic content
+
+- Lymph nodes: associated lymph nodes haemorrhagic and enlarged
+
+- General: bleeding and necrosis of the gut may be seen
+
+**Pathophysiology / Mechanism:**
+
+- [Awaiting feedback]
+
+- General clostridial pathogenesis: strict anaerobic, spore-forming bacteria → vegetative bacteria produce potent exotoxins → local tissue damage → [this part needs feedback]
+
+**Diagnosis:**
+
+- Pigs: confirmed by identification of the causative enterotoxin
+
+- General clostridial diagnosis: sample collection from dead animals within 6 hours (bacteriology — intestinal content of ileum and intestinal swabs, aseptic technique, anaerobic storage); from live animals — serum; histopathology (10% buffered formalin) of brain and intestinal tissue

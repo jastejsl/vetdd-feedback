@@ -1,26 +1,44 @@
-### Disease name
-Babesia rossi
+**Common names:** Canine babesiosis (most virulent in SA)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dogs
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Nervous system; Renal; Respiratory
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Large Babesia in dog erythrocytes; morphologically similar to B. canis + B. vogeli (differentiated by PCR).
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Fever; severe anaemia; jaundice
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Inappetence; marked thirst; weakness; prostration
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Complicated babesiosis: systemic inflammatory response syndrome (SIRS); multiple organ dysfunction syndrome (MODS) 
+  - [to be covered in the respective syndrome cards; complicated babesiosis to be covered in complex card]
+
+**Pathological signs:**
+
+- Blood: Severe intra- and extravascular haemolysis
+
+- Kidneys; lungs; brain: Organ dysfunction in complicated form [awaiting feedback for exact pathological signs of these organ systems]
+
+**Pathophysiology / Mechanism:**
+
+- Haemaphysalis elliptica inoculates sporozoites → RBC invasion → severe haemolysis → anaemia + icterus; SIRS → MODS
+
+**Diagnosis:**
+
+- Thin blood smears
+
+- Serology (IFAT)
+
+- RT-PCR (especially for Babesia rossi)
+
+- PCR
+
+**Lab Findings**:
+
+- Severe anaemia
+
+- Haemoglobinaemia

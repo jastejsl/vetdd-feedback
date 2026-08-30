@@ -1,26 +1,51 @@
-### Disease name
-Contagious equine metritis
+**Caused by:** Taylorella equigenitalis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Horses (especially thoroughbreds); mares and stallions are carriers
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+Acute, highly contagious venereal disease of equids; controlled disease (state vets must be informed); foals can acquire congenital infections during birth
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Reproductive
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Tranmission:** Natural mating or AI (primary venereal transmission); indirect via fomites; found in smegma and cellular debris of external genitalia of carrier stallions
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Gram Negative** (Coccobacillus)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Mares: Infertility; early return to oestrus (pregnancy failure)
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+Acute:
+
+- Mares: Mucopurulent vulvar discharge post-breeding
+
+- Chronic: Milder, less obvious discharge
+
+- Stallions: Commensal colonization of genitalia; no clinical signs
+
+- Abortions (rare cases)
+
+**Pathological signs:**
+
+- Uterus: Endometritis; salpingitis; vaginitis (mares)
+
+**Pathophysiology / Mechanism:**
+
+- After coitus, bacteria migrate through the cervix → proliferate in the uterus → causing endometritis, salpingitis and vaginitis → infertility/pregnancy failure in mares; stallions: commensal colonization with no effects
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Serology
+
+- Isolation and identification of organism from swabs of cervix, clitoral fossa and clitoral sinuses
+
+- PCR (negative results on 3 consecutive days + 2 more sets at 21 and 28 days required to declare animal recovered)
+
+**Notifiable / Controlled Disease:** yes
+
+**Related info**:
+
+- CEM clearance certificate required before breeding; compulsory stallion testing for control

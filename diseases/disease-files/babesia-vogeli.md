@@ -1,26 +1,29 @@
-### Disease name
-Babesia vogeli
+**Common names:** Canine babesiosis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Dogs
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Large Babesia in dog erythrocytes, differentiated from B. rossi and B. canis by PCR.
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+- Fever; anaemia; jaundice
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Inappetence; marked thirst; weakness
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Pathological signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Blood: Haemolytic anaemia
+
+**Pathophysiology / Mechanism:**
+
+- Tick bite → RBC invasion → merogony → haemolysis
+
+**Diagnosis:**
+
+- Blood smears
+
+- Serology (IFAT, ELISA)
+
+- PCR

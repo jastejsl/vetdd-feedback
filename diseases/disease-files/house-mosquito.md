@@ -1,26 +1,25 @@
-### Disease name
-House mosquito
+**Caused by:** Culex spp.
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Common names:** Mosquito; house mosquito
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Affects:** Animals; humans
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematopoietic
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Exposed skin
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Short female palps; long male palps; body parallel to surface; raft-shaped egg mass; larvae with siphon tube at 45° to surface; long narrow respiratory trumpets; requires constant water supply for prevalance.
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Signs:**
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Biting stress and irritation
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Toxins can kill few day-old lambs
+
+- Clinical signs from carried diseases
+
+---
+
+This is simply a mosquito. Images will be added at a later stage to aid identification process in-app
+
+Please refer to “Carries” cards linked above for further details of diseases.

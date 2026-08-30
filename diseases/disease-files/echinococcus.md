@@ -1,26 +1,55 @@
-### Disease name
-Echinococcus
+**Caused by:** Echinococcus genus
+  - E. granulosus s.s. = Canine & Humans
+  - E. equinus = Equids
+  - E. felidis = Lion
+  - More do exist but are not included here
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Common names:** Hydatid tapeworm; hydatid disease (cystic echinococcosis) in IH
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Affects:** 
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+- Definitive Hosts: dogs, lion
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+- Intermediate Hosts: sheep, equid, cattle, pig, human
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Gastrointestinal (DH); Hepatic/Respiratory (IH)
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Predilection site:** Adults in dog small intestine; metacestode = hydatid cyst in liver/lungs/other organs
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** 
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Strobila with only 3 proglottids
+  - Gravid proglottid longer than wide, whitish, motile (difficult to see macroscopically)
+
+- Metacestode = hydatid cyst (large fist-sized, fluid-filled unilocular; hydatid sand = protoscoleces; cyst fluid)
+
+- Taeniid egg (cannot differentiate from Taenia)
+
+**Signs:**
+
+- DH: Often overlooked at necropsies; largely non-pathogenic
+
+- IH: Asymptomatic
+
+- IH (humans): Asymptomatic OR pressure effects of slow-growing hydatids:
+  - CNS involvement → intracranial pressure → paralysis; sudden rupture → anaphylactic reaction; severe psychological effects
+
+**Pathological signs:**
+
+- Liver/lungs (IH): Hydatid cysts (fist-sized, fluid-filled)
+
+**Pathophysiology / Mechanism:**
+
+- Dog (DH) sheds eggs → IH ingests eggs → oncosphere released → liver/lungs → hydatid cyst grows slowly → pressure effects; rupture → anaphylaxis
+
+**Diagnosis:**
+
+- IH: No diagnostic tools in live animals; meat inspection at PM
+
+- DH: Diagnostic deworming; demonstrate gravid proglottids in faeces; demonstrate eggs by adhesive-tape swabs (cannot differentiate from Taenia)
+
+- Humans: Imaging techniques + serology; surgical removal + long-term chemotherapy
+
+**Zoonosis:** yes — most important and widespread zoonotic disease of canine origin
+
+**Note:** Causes production losses as meat has to be discarded

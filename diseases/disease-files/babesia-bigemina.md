@@ -1,26 +1,43 @@
-### Disease name
-Babesia bigemina
+**Common names:** African redwater; Bovine babesiosis
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Affects:** Cattle; buffalo
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Haematological
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+**Secondary Organ System:** Hepatic; Renal
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+**Identification tips:** Paired pear-shaped merozoites forming acute angle; larger merozoites; 'paired form'. 
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+- Fever
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+- Anaemia
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Icterus
+
+- Haemoglobinuria 
+
+- Inappetence; weakness; prostration
+
+**Pathological signs:**
+
+- Liver: Icterus
+
+- Spleen: Splenomegaly
+
+**Pathophysiology / Mechanism:**
+
+- Tick injects sporozoites → RBC invasion → merogony (binary fission) → RBC lysis → intravascular haemolysis → haemoglobinaemia → haemoglobinuria (redwater) + icterus + anaemia
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
+
+- Thin and thick blood smears; serological assays; PCR
+
+**Lab Findings**:
+
+- Haemoglobinuria; haemoglobinaemia; anaemia on blood smear

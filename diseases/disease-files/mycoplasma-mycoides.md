@@ -1,26 +1,35 @@
-### Disease name
-Ulcerative balanoposthitis and vulvovaginitis (Mycoplasma)
+**Common names:** Ulcerative balanoposthitis and vulvovaginitis (UBV)
 
-### Commonly known as
-Initial: Content shown in the app is initial content from launch
+**Caused by:** Mycoplasma mycoides subsp. mycoides
 
-### Specific causes
-Initial: Content shown in the app is initial content from launch
+**Affects:** Sheep (Dorper and Karakul breeds primarily)
 
-### Secondary Organ Systems affected
-Initial: Content shown in the app is initial content from launch
+Multifactorial aetiology not detailed here (involves Trueperella pyogenes)
 
-### Clinical Signs
-Initial: Content shown in the app is initial content from launch
+Mycoplasma mycoides involved as one of the causative agents that leads to the reproductive losses because of a reluctance of males to mate
 
-### Gross Pathology
-Initial: Content shown in the app is initial content from launch
+**Primary Organ System:** Reproductive 
 
-### Pathophysiology
-Initial: Content shown in the app is initial content from launch
+**Transmission:** Venereal 
 
-### Diagnosis
-Initial: Content shown in the app is initial content from launch
+**Clinical Signs:**
 
-### Related Academic Journals/Articles
-Initial: Content shown in the app is initial content from launch
+- Vulvitis: Ulcerated, swollen, red vulvae (only lips)
+
+- Balanitis: Ulcerated and hyperaemic glans penis
+
+- Glans penis and vulva appear hyperaemic and swollen with ulceration
+
+**Pathological signs:**
+
+- External genitalia: Erosion and ulceration of vulval labia and glans penis
+
+**Pathophysiology / Mechanism:**
+
+- Venereal transmission → Mycoplasma mycoides proliferates in the reproductive tract → ulceration and erosion of external genitalia; end-stage organisms like Trueperella pyogenes may also be involved (multifactorial)
+
+**Diagnosis:**
+
+- Clinical Signs
+
+- Pathology
