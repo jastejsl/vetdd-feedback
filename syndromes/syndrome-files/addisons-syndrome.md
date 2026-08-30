@@ -48,8 +48,6 @@ Concurrent immune-mediated diseases: autoimmune anaemia, hepatitis, hypothyroidi
 
 **Pathophysiology / Mechanism of development:**
 
-(detailed vertically)
-
 1. Typical Addisons: 
 
 Immune-mediated  / granulomatous inflammation / DIC / metastatic neoplasia / iatrogenic  | (initial insult/origin)
@@ -64,14 +62,14 @@ Immune-mediated  / granulomatous inflammation / DIC / metastatic neoplasia / iat
 → Addisonian crisis on any major stressor
 
 
-1. Atypical Addisons: 
+2. Atypical Addisons: 
 
 Destruction of inner layers only (Z. fasciculata + Z. reticularis) with Z. glomerulosa preserved 
 → isolated glucocorticoid deficiency 
 → normal Na:K ratio; vague GIT signs; hypoglycaemia; normal electrolytes
 
 
-1. Secondary Addisons 
+3. Secondary Addisons 
 
 Hypothalamic/pituitary lesion → ↓ACTH → cortisol deficiency only 
 Aldosterone unaffected — controlled by RAAS, not ACTH under normal conditions)
