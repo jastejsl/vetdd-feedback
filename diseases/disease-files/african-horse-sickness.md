@@ -1,6 +1,6 @@
 **Specific Causes:** African Horse Sickness virus (AHSV; genus Orbivirus; 9 serotypes)
 
-**Affects****:** Primarily horses (most susceptible); donkeys (carriers); zebras (resistant); dogs (fatal form after eating infected horse meat)
+**Affects:** Primarily horses (most susceptible); donkeys (carriers); zebras (resistant); dogs (fatal form after eating infected horse meat)
 
 **Primary Organ System:** Respiratory; Cardiovascular
 
